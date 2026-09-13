@@ -1,0 +1,1001 @@
+CustomerId,Surname,Credit_Score,Geography,Gender,Age,Tenure,Balance,Number_Of_Products,Has_Credit_Card,Is_Active_Member,Estimated_Salary,Customer_Status,Age_Group,Credit_Score_Band,Balance Category
+15634602,Hargrave,619,France,Female,42,2,0,1,Yes,Yes,101348.88,Exited,Adult,Fair,Zero Balance
+15647311,Hill,608,Spain,Female,41,1,83807.86,1,No,Yes,112542.58,Retained,Adult,Fair,Medium Balance
+15619304,Onio,502,France,Female,42,8,159660.8,3,Yes,No,113931.57,Exited,Adult,Poor,High balance
+15701354,Boni,699,France,Female,39,1,0,2,No,No,93826.63,Retained,Adult,Good,Zero Balance
+15737888,Mitchell,850,Spain,Female,43,2,125510.82,1,Yes,Yes,79084.1,Retained,Adult,Excellent,High balance
+15574012,Chu,645,Spain,Male,44,8,113755.78,2,Yes,No,149756.71,Exited,Adult,Fair,High balance
+15592531,Bartlett,822,France,Male,50,7,0,2,Yes,Yes,10062.8,Retained,Middle-Aged,Excellent,Zero Balance
+15656148,Obinna,376,Germany,Female,29,4,115046.74,4,Yes,No,119346.88,Exited,Young Adult,Poor,High balance
+15792365,He,501,France,Male,44,4,142051.07,2,No,Yes,74940.5,Retained,Adult,Poor,High balance
+15592389,H?,684,France,Male,27,2,134603.88,1,Yes,Yes,71725.73,Retained,Young Adult,Good,High balance
+15767821,Bearce,528,France,Male,31,6,102016.72,2,No,No,80181.12,Retained,Adult,Poor,High balance
+15737173,Andrews,497,Spain,Male,24,3,0,2,Yes,No,76390.01,Retained,Young Adult,Poor,Zero Balance
+15632264,Kay,476,France,Female,34,10,0,2,Yes,No,26260.98,Retained,Adult,Poor,Zero Balance
+15691483,Chin,549,France,Female,25,5,0,2,No,No,190857.79,Retained,Young Adult,Poor,Zero Balance
+15600882,Scott,635,Spain,Female,35,7,0,2,Yes,Yes,65951.65,Retained,Adult,Fair,Zero Balance
+15643966,Goforth,616,Germany,Male,45,3,143129.41,2,No,Yes,64327.26,Retained,Adult,Fair,High balance
+15737452,Romeo,653,Germany,Male,58,1,132602.88,1,Yes,No,5097.67,Exited,Middle-Aged,Fair,High balance
+15788218,Henderson,549,Spain,Female,24,9,0,2,Yes,Yes,14406.41,Retained,Young Adult,Poor,Zero Balance
+15661507,Muldrow,587,Spain,Male,45,6,0,1,No,No,158684.81,Retained,Adult,Fair,Zero Balance
+15568982,Hao,726,France,Female,24,6,0,2,Yes,Yes,54724.03,Retained,Young Adult,Good,Zero Balance
+15577657,McDonald,732,France,Male,41,8,0,2,Yes,Yes,170886.17,Retained,Adult,Good,Zero Balance
+15597945,Dellucci,636,Spain,Female,32,8,0,2,Yes,No,138555.46,Retained,Adult,Fair,Zero Balance
+15699309,Gerasimov,510,Spain,Female,38,4,0,1,Yes,No,118913.53,Exited,Adult,Poor,Zero Balance
+15725737,Mosman,669,France,Male,46,3,0,2,No,Yes,8487.75,Retained,Middle-Aged,Fair,Zero Balance
+15625047,Yen,846,France,Female,38,5,0,1,Yes,Yes,187616.16,Retained,Adult,Excellent,Zero Balance
+15738191,Maclean,577,France,Male,25,3,0,2,No,Yes,124508.29,Retained,Young Adult,Poor,Zero Balance
+15736816,Young,756,Germany,Male,36,2,136815.64,1,Yes,Yes,170041.95,Retained,Adult,Very Good,High balance
+15700772,Nebechi,571,France,Male,44,9,0,2,No,No,38433.35,Retained,Adult,Poor,Zero Balance
+15728693,McWilliams,574,Germany,Female,43,3,141349.43,1,Yes,Yes,100187.43,Retained,Adult,Poor,High balance
+15656300,Lucciano,411,France,Male,29,0,59697.17,2,Yes,Yes,53483.21,Retained,Young Adult,Poor,Medium Balance
+15589475,Azikiwe,591,Spain,Female,39,3,0,3,Yes,No,140469.38,Exited,Adult,Fair,Zero Balance
+15706552,Odinakachukwu,533,France,Male,36,7,85311.7,1,No,Yes,156731.91,Retained,Adult,Poor,Medium Balance
+15750181,Sanderson,553,Germany,Male,41,9,110112.54,2,No,No,81898.81,Retained,Adult,Poor,High balance
+15659428,Maggard,520,Spain,Female,42,6,0,2,Yes,Yes,34410.55,Retained,Adult,Poor,Zero Balance
+15732963,Clements,722,Spain,Female,29,9,0,2,Yes,Yes,142033.07,Retained,Young Adult,Good,Zero Balance
+15794171,Lombardo,475,France,Female,45,0,134264.04,1,Yes,No,27822.99,Exited,Adult,Poor,High balance
+15788448,Watson,490,Spain,Male,31,3,145260.23,1,No,Yes,114066.77,Retained,Adult,Poor,High balance
+15729599,Lorenzo,804,Spain,Male,33,7,76548.6,1,No,Yes,98453.45,Retained,Adult,Excellent,Medium Balance
+15717426,Armstrong,850,France,Male,36,7,0,1,Yes,Yes,40812.9,Retained,Adult,Excellent,Zero Balance
+15585768,Cameron,582,Germany,Male,41,6,70349.48,2,No,Yes,178074.04,Retained,Adult,Fair,Medium Balance
+15619360,Hsiao,472,Spain,Male,40,4,0,1,Yes,No,70154.22,Retained,Adult,Poor,Zero Balance
+15738148,Clarke,465,France,Female,51,8,122522.32,1,No,No,181297.65,Exited,Middle-Aged,Poor,High balance
+15687946,Osborne,556,France,Female,61,2,117419.35,1,Yes,Yes,94153.83,Retained,Senior,Poor,High balance
+15755196,Lavine,834,France,Female,49,2,131394.56,1,No,No,194365.76,Exited,Middle-Aged,Excellent,High balance
+15684171,Bianchi,660,Spain,Female,61,5,155931.11,1,Yes,Yes,158338.39,Retained,Senior,Fair,High balance
+15754849,Tyler,776,Germany,Female,32,4,109421.13,2,Yes,Yes,126517.46,Retained,Adult,Very Good,High balance
+15602280,Martin,829,Germany,Female,27,9,112045.67,1,Yes,Yes,119708.21,Exited,Young Adult,Excellent,High balance
+15771573,Okagbue,637,Germany,Female,39,9,137843.8,1,Yes,Yes,117622.8,Exited,Adult,Fair,High balance
+15766205,Yin,550,Germany,Male,38,2,103391.38,1,No,Yes,90878.13,Retained,Adult,Poor,High balance
+15771873,Buccho,776,Germany,Female,37,2,103769.22,2,Yes,No,194099.12,Retained,Adult,Very Good,High balance
+15616550,Chidiebele,698,Germany,Male,44,10,116363.37,2,Yes,No,198059.16,Retained,Adult,Good,High balance
+15768193,Trevisani,585,Germany,Male,36,5,146050.97,2,No,No,86424.57,Retained,Adult,Fair,High balance
+15683553,O'Brien,788,France,Female,33,5,0,2,No,No,116978.19,Retained,Adult,Very Good,Zero Balance
+15702298,Parkhill,655,Germany,Male,41,8,125561.97,1,No,No,164040.94,Exited,Adult,Fair,High balance
+15569590,Yoo,601,Germany,Male,42,1,98495.72,1,Yes,No,40014.76,Exited,Adult,Fair,Medium Balance
+15760861,Phillipps,619,France,Male,43,1,125211.92,1,Yes,Yes,113410.49,Retained,Adult,Fair,High balance
+15630053,Tsao,656,France,Male,45,5,127864.4,1,Yes,No,87107.57,Retained,Adult,Fair,High balance
+15647091,Endrizzi,725,Germany,Male,19,0,75888.2,1,No,No,45613.75,Retained,Young Adult,Good,Medium Balance
+15623944,T'ien,511,Spain,Female,66,4,0,1,Yes,No,1643.11,Exited,Senior,Poor,Zero Balance
+15804771,Velazquez,614,France,Male,51,4,40685.92,1,Yes,Yes,46775.28,Retained,Middle-Aged,Fair,Low Balance
+15651280,Hunter,742,Germany,Male,35,5,136857,1,No,No,84509.57,Retained,Adult,Very Good,High balance
+15773469,Clark,687,Germany,Female,27,9,152328.88,2,No,No,126494.82,Retained,Young Adult,Good,High balance
+15702014,Jeffrey,555,Spain,Male,33,1,56084.69,2,No,No,178798.13,Retained,Adult,Poor,Medium Balance
+15751208,Pirozzi,684,Spain,Male,56,8,78707.16,1,Yes,Yes,99398.36,Retained,Middle-Aged,Good,Medium Balance
+15592461,Jackson,603,Germany,Male,26,4,109166.37,1,Yes,Yes,92840.67,Retained,Young Adult,Fair,High balance
+15789484,Hammond,751,Germany,Female,36,6,169831.46,2,Yes,Yes,27758.36,Retained,Adult,Very Good,High balance
+15696061,Brownless,581,Germany,Female,34,1,101633.04,1,Yes,No,110431.51,Retained,Adult,Fair,High balance
+15641582,Chibugo,735,Germany,Male,43,10,123180.01,2,Yes,Yes,196673.28,Retained,Adult,Good,High balance
+15638424,Glauert,661,Germany,Female,35,5,150725.53,2,No,Yes,113656.85,Retained,Adult,Fair,High balance
+15755648,Pisano,675,France,Female,21,8,98373.26,1,Yes,No,18203,Retained,Young Adult,Good,Medium Balance
+15703793,Konovalova,738,Germany,Male,58,2,133745.44,4,Yes,No,28373.86,Exited,Middle-Aged,Good,High balance
+15620344,McKee,813,France,Male,29,6,0,1,Yes,No,33953.87,Retained,Young Adult,Excellent,Zero Balance
+15812518,Palermo,657,Spain,Female,37,0,163607.18,1,No,Yes,44203.55,Retained,Adult,Fair,High balance
+15779052,Ballard,604,Germany,Female,25,5,157780.84,2,Yes,Yes,58426.81,Retained,Young Adult,Fair,High balance
+15770811,Wallace,519,France,Male,36,9,0,2,No,Yes,145562.4,Retained,Adult,Poor,Zero Balance
+15780961,Cavenagh,735,France,Female,21,1,178718.19,2,Yes,No,22388,Retained,Young Adult,Good,High balance
+15614049,Hu,664,France,Male,55,8,0,2,Yes,Yes,139161.64,Retained,Middle-Aged,Fair,Zero Balance
+15662085,Read,678,France,Female,32,9,0,1,Yes,Yes,148210.64,Retained,Adult,Good,Zero Balance
+15575185,Bushell,757,Spain,Male,33,5,77253.22,1,No,Yes,194239.63,Retained,Adult,Very Good,Medium Balance
+15803136,Postle,416,Germany,Female,41,10,122189.66,2,Yes,No,98301.61,Retained,Adult,Poor,High balance
+15706021,Buley,665,France,Female,34,1,96645.54,2,No,No,171413.66,Retained,Adult,Fair,Medium Balance
+15663706,Leonard,777,France,Female,32,2,0,1,Yes,No,136458.19,Exited,Adult,Very Good,Zero Balance
+15641732,Mills,543,France,Female,36,3,0,2,No,No,26019.59,Retained,Adult,Poor,Zero Balance
+15701164,Onyeorulu,506,France,Female,34,4,90307.62,1,Yes,Yes,159235.29,Retained,Adult,Poor,Medium Balance
+15738751,Beit,493,France,Female,46,4,0,2,Yes,No,1907.66,Retained,Middle-Aged,Poor,Zero Balance
+15805254,Ndukaku,652,Spain,Female,75,10,0,2,Yes,Yes,114675.75,Retained,Senior,Fair,Zero Balance
+15762418,Gant,750,Spain,Male,22,3,121681.82,1,Yes,No,128643.35,Exited,Young Adult,Very Good,High balance
+15625759,Rowley,729,France,Male,30,9,0,2,Yes,No,151869.35,Retained,Young Adult,Good,Zero Balance
+15622897,Sharpe,646,France,Female,46,4,0,3,Yes,No,93251.42,Exited,Middle-Aged,Fair,Zero Balance
+15767954,Osborne,635,Germany,Female,28,3,81623.67,2,Yes,Yes,156791.36,Retained,Young Adult,Fair,Medium Balance
+15757535,Heap,647,Spain,Female,44,5,0,3,Yes,Yes,174205.22,Exited,Adult,Fair,Zero Balance
+15731511,Ritchie,808,France,Male,45,7,118626.55,2,Yes,No,147132.46,Retained,Adult,Excellent,High balance
+15809248,Cole,524,France,Female,36,10,0,2,Yes,No,109614.57,Retained,Adult,Poor,Zero Balance
+15640635,Capon,769,France,Male,29,8,0,2,Yes,Yes,172290.61,Retained,Young Adult,Very Good,Zero Balance
+15676966,Capon,730,Spain,Male,42,4,0,2,No,Yes,85982.47,Retained,Adult,Good,Zero Balance
+15699461,Fiorentini,515,Spain,Male,35,10,176273.95,1,No,Yes,121277.78,Retained,Adult,Poor,High balance
+15738721,Graham,773,Spain,Male,41,9,102827.44,1,No,Yes,64595.25,Retained,Adult,Very Good,High balance
+15693683,Yuille,814,Germany,Male,29,8,97086.4,2,Yes,Yes,197276.13,Retained,Young Adult,Excellent,Medium Balance
+15604348,Allard,710,Spain,Male,22,8,0,2,No,No,99645.04,Retained,Young Adult,Good,Zero Balance
+15633059,Fanucci,413,France,Male,34,9,0,2,No,No,6534.18,Retained,Adult,Poor,Zero Balance
+15808582,Fu,665,France,Female,40,6,0,1,Yes,Yes,161848.03,Retained,Adult,Fair,Zero Balance
+15743192,Hung,623,France,Female,44,6,0,2,No,No,167162.43,Retained,Adult,Fair,Zero Balance
+15580146,Hung,738,France,Male,31,9,82674.15,1,Yes,No,41970.72,Retained,Adult,Good,Medium Balance
+15776605,Bradley,528,Spain,Male,36,7,0,2,Yes,No,60536.56,Retained,Adult,Poor,Zero Balance
+15804919,Dunbabin,670,Spain,Female,65,1,0,1,Yes,Yes,177655.68,Exited,Senior,Good,Zero Balance
+15613854,Mauldon,622,Spain,Female,46,4,107073.27,2,Yes,Yes,30984.59,Exited,Middle-Aged,Fair,High balance
+15599195,Stiger,582,Germany,Male,32,1,88938.62,1,Yes,Yes,10054.53,Retained,Adult,Fair,Medium Balance
+15812878,Parsons,785,Germany,Female,36,2,99806.85,1,No,Yes,36976.52,Retained,Adult,Very Good,Medium Balance
+15602312,Walkom,605,Spain,Male,33,5,150092.8,1,No,No,71862.79,Retained,Adult,Fair,High balance
+15744689,T'ang,479,Germany,Male,35,9,92833.89,1,Yes,No,99449.86,Exited,Adult,Poor,Medium Balance
+15803526,Eremenko,685,Germany,Male,30,3,90536.81,1,No,Yes,63082.88,Retained,Young Adult,Good,Medium Balance
+15665790,Rowntree,538,Germany,Male,39,7,108055.1,2,Yes,No,27231.26,Retained,Adult,Poor,High balance
+15715951,Thorpe,562,France,Male,42,2,100238.35,1,No,No,86797.41,Retained,Adult,Poor,High balance
+15591100,Chiemela,675,Spain,Male,36,9,106190.55,1,No,Yes,22994.32,Retained,Adult,Good,High balance
+15609618,Fanucci,721,Germany,Male,28,9,154475.54,2,No,Yes,101300.94,Exited,Young Adult,Good,High balance
+15675522,Ko,628,Germany,Female,30,9,132351.29,2,Yes,Yes,74169.13,Retained,Young Adult,Fair,High balance
+15705512,Welch,668,Germany,Female,37,6,167864.4,1,Yes,No,115638.29,Retained,Adult,Fair,High balance
+15698028,Duncan,506,France,Female,41,1,0,2,Yes,No,31766.3,Retained,Adult,Poor,Zero Balance
+15661670,Chidozie,524,Germany,Female,31,8,107818.63,1,Yes,No,199725.39,Exited,Adult,Poor,High balance
+15600781,Wu,699,Germany,Male,34,4,185173.81,2,Yes,No,120834.48,Retained,Adult,Good,High balance
+15682472,Culbreth,828,France,Male,34,8,129433.34,2,No,No,38131.77,Retained,Adult,Excellent,High balance
+15580203,Kennedy,674,Spain,Male,39,6,120193.42,1,No,No,100130.95,Retained,Adult,Good,High balance
+15690673,Cameron,656,France,Female,39,6,0,2,Yes,No,141069.88,Retained,Adult,Fair,Zero Balance
+15760085,Calabresi,684,Germany,Female,48,10,126384.42,1,Yes,Yes,198129.36,Retained,Middle-Aged,Good,High balance
+15779659,Zetticci,625,France,Female,28,3,0,1,No,No,183646.41,Retained,Young Adult,Fair,Zero Balance
+15627360,Fuller,432,France,Male,42,9,152603.45,1,Yes,No,110265.24,Exited,Adult,Poor,High balance
+15671137,MacDonald,549,France,Female,52,1,0,1,No,Yes,8636.05,Exited,Middle-Aged,Poor,Zero Balance
+15782688,Piccio,625,Germany,Male,56,0,148507.24,1,Yes,No,46824.08,Exited,Middle-Aged,Fair,High balance
+15575492,Kennedy,828,France,Female,41,7,0,2,Yes,No,171378.77,Retained,Adult,Excellent,Zero Balance
+15591607,Fernie,770,France,Male,24,9,101827.07,1,Yes,No,167256.35,Retained,Young Adult,Very Good,High balance
+15740404,He,758,France,Female,34,3,0,2,Yes,Yes,124226.16,Retained,Adult,Very Good,Zero Balance
+15718369,Kaodilinakachukwu,795,Germany,Female,33,9,130862.43,1,Yes,Yes,114935.21,Retained,Adult,Very Good,High balance
+15677871,Cocci,687,France,Male,38,9,122570.87,1,Yes,Yes,35608.88,Retained,Adult,Good,High balance
+15642004,Alekseeva,686,France,Male,25,1,0,2,No,Yes,16459.37,Retained,Young Adult,Good,Zero Balance
+15712543,Chinweike,789,Germany,Male,39,7,124828.46,2,Yes,Yes,124411.08,Retained,Adult,Very Good,High balance
+15584518,Arthur,589,Germany,Female,50,5,144895.05,2,Yes,Yes,34941.23,Retained,Middle-Aged,Fair,High balance
+15802381,Li,461,Germany,Female,34,5,63663.93,1,No,Yes,167784.28,Retained,Adult,Poor,Medium Balance
+15610156,Ma,637,France,Male,40,2,133463.1,1,No,Yes,93165.34,Retained,Adult,Fair,High balance
+15594408,Chia,584,Spain,Female,48,2,213146.2,1,Yes,No,75161.25,Exited,Middle-Aged,Fair,High balance
+15640905,Vasin,579,Spain,Female,35,1,129490.36,2,No,Yes,8590.83,Exited,Adult,Poor,High balance
+15698932,Groves,756,Germany,Male,44,10,137452.09,1,Yes,No,189543.9,Retained,Adult,Very Good,High balance
+15724944,Tien,663,France,Male,34,7,0,2,Yes,Yes,180427.24,Retained,Adult,Fair,Zero Balance
+15628145,Forwood,682,France,Female,43,5,125851.93,1,Yes,Yes,193318.33,Retained,Adult,Good,High balance
+15713483,Greeves,793,Spain,Male,52,2,0,1,Yes,No,159123.82,Exited,Middle-Aged,Very Good,Zero Balance
+15612350,Taylor,691,France,Female,31,5,40915.55,1,Yes,No,126213.84,Exited,Adult,Good,Low Balance
+15800703,Madukwe,485,Spain,Female,21,5,113157.22,1,Yes,Yes,54141.5,Retained,Young Adult,Poor,High balance
+15705707,Bennelong,635,Spain,Female,29,8,138296.94,2,Yes,No,141075.51,Retained,Young Adult,Fair,High balance
+15754105,Olisanugo,650,France,Male,37,5,106967.18,1,No,No,24495.03,Retained,Adult,Fair,High balance
+15703264,Chukwufumnanya,735,France,Male,44,9,120681.63,1,Yes,No,74836.34,Retained,Adult,Good,High balance
+15794413,Harris,416,France,Male,32,0,0,2,No,Yes,878.87,Retained,Adult,Poor,Zero Balance
+15650237,Morgan,754,Spain,Female,32,7,0,2,Yes,No,89520.75,Retained,Adult,Very Good,Zero Balance
+15759618,Alexeeva,535,France,Female,48,9,0,1,Yes,No,149892.79,Exited,Middle-Aged,Poor,Zero Balance
+15811589,Metcalfe,716,Spain,Male,42,8,0,2,Yes,No,180800.42,Retained,Adult,Good,Zero Balance
+15689044,Humphries,539,France,Male,37,2,127609.59,1,Yes,No,98646.22,Retained,Adult,Poor,High balance
+15709368,Milne,614,France,Female,43,6,0,2,Yes,Yes,109041.53,Retained,Adult,Fair,Zero Balance
+15679145,Chou,706,Spain,Male,57,7,0,1,Yes,No,17941.16,Exited,Middle-Aged,Good,Zero Balance
+15655007,Li,758,France,Female,33,7,0,2,No,No,82996.47,Retained,Adult,Very Good,Zero Balance
+15623595,Clayton,586,Spain,Female,28,2,0,2,Yes,Yes,92067.35,Retained,Young Adult,Fair,Zero Balance
+15589975,Maclean,646,France,Female,73,6,97259.25,1,No,Yes,104719.66,Retained,Senior,Fair,Medium Balance
+15804017,Chigolum,631,Germany,Female,33,4,123246.7,1,No,No,112687.57,Retained,Adult,Fair,High balance
+15692132,Wilkinson,717,Spain,Female,22,6,101060.25,1,No,Yes,84699.56,Retained,Young Adult,Good,High balance
+15641122,Wei,684,France,Male,30,2,0,2,Yes,No,83473.82,Retained,Young Adult,Good,Zero Balance
+15630910,Treacy,800,France,Female,49,7,108007.36,1,No,No,47125.11,Retained,Middle-Aged,Excellent,High balance
+15680772,Hu,721,Spain,Female,36,2,0,2,Yes,Yes,106977.8,Retained,Adult,Good,Zero Balance
+15658929,Taverner,683,Spain,Male,29,0,133702.89,1,Yes,No,55582.54,Exited,Young Adult,Good,High balance
+15585388,Sherman,660,Germany,Male,31,9,125189.75,2,Yes,Yes,139874.43,Retained,Adult,Fair,High balance
+15724623,Taubman,704,Germany,Female,24,7,113034.22,1,Yes,No,162503.48,Exited,Young Adult,Good,High balance
+15588537,Robinson,615,Spain,Female,41,9,109013.23,1,Yes,No,196499.96,Retained,Adult,Fair,High balance
+15574692,Pinto,667,Spain,Female,39,2,0,2,Yes,No,40721.24,Exited,Adult,Fair,Zero Balance
+15611325,Wood,682,Germany,Male,24,9,57929.81,2,No,No,53134.3,Retained,Young Adult,Good,Medium Balance
+15587562,Hawkins,484,France,Female,29,4,130114.39,1,Yes,No,164017.89,Retained,Young Adult,Poor,High balance
+15613172,Sun,628,Germany,Male,27,5,95826.49,2,Yes,No,155996.96,Retained,Young Adult,Fair,Medium Balance
+15651022,Yost,480,Germany,Male,44,10,129608.57,1,Yes,No,5472.7,Exited,Adult,Poor,High balance
+15586310,Ting,578,France,Male,30,4,169462.09,1,Yes,No,112187.11,Retained,Young Adult,Poor,High balance
+15625524,Rowe,512,France,Male,40,5,0,2,Yes,Yes,146457.83,Retained,Adult,Poor,Zero Balance
+15755209,Fu,484,Spain,Female,35,7,133868.21,1,Yes,Yes,27286.1,Retained,Adult,Poor,High balance
+15645248,Ho,510,France,Female,30,0,0,2,Yes,Yes,130553.47,Retained,Young Adult,Poor,Zero Balance
+15790355,Okechukwu,606,Germany,Male,36,5,190479.48,2,No,No,179351.89,Retained,Adult,Fair,High balance
+15762615,Campbell,597,Spain,Female,40,8,101993.12,1,No,Yes,94774.12,Retained,Adult,Fair,High balance
+15625426,Ashbolt,754,Germany,Female,55,3,161608.81,1,Yes,No,8080.85,Exited,Middle-Aged,Very Good,High balance
+15716334,Rozier,850,Spain,Female,45,2,122311.21,1,Yes,Yes,19482.5,Retained,Adult,Excellent,High balance
+15789669,Hsia,510,France,Male,65,2,0,2,Yes,Yes,48071.61,Retained,Senior,Poor,Zero Balance
+15621075,Ogbonnaya,778,Germany,Female,45,1,162150.42,2,Yes,No,174531.27,Retained,Adult,Very Good,High balance
+15810845,T'ang,636,France,Male,42,2,0,2,Yes,Yes,55470.78,Retained,Adult,Fair,Zero Balance
+15719377,Cocci,804,France,Female,50,4,0,1,Yes,Yes,8546.87,Exited,Middle-Aged,Excellent,Zero Balance
+15654506,Chang,514,France,Male,32,8,0,2,Yes,No,95857.18,Retained,Adult,Poor,Zero Balance
+15771977,T'ao,730,France,Female,39,1,99010.67,1,Yes,No,194945.8,Retained,Adult,Good,Medium Balance
+15708710,Ford,525,Spain,Female,37,0,0,1,No,Yes,131521.72,Retained,Adult,Poor,Zero Balance
+15726676,Marshall,616,Spain,Male,30,5,0,2,No,Yes,196108.51,Retained,Young Adult,Fair,Zero Balance
+15587421,Tsai,687,Germany,Female,34,7,111388.18,2,Yes,No,148564.76,Retained,Adult,Good,High balance
+15726931,Onwumelu,715,France,Female,41,8,56214.85,2,No,No,92982.61,Exited,Adult,Good,Medium Balance
+15771086,Graham,512,France,Female,36,3,84327.77,2,Yes,No,17675.36,Retained,Adult,Poor,Medium Balance
+15756850,Golovanov,479,France,Male,40,1,0,2,No,No,114996.43,Retained,Adult,Poor,Zero Balance
+15702741,Potts,601,France,Male,32,8,93012.89,1,Yes,No,86957.42,Retained,Adult,Fair,Medium Balance
+15679200,Crawford,580,Spain,Male,29,9,61710.44,2,Yes,No,128077.8,Retained,Young Adult,Fair,Medium Balance
+15594815,Aleshire,807,France,Male,35,3,174790.15,1,Yes,Yes,600.36,Retained,Adult,Excellent,High balance
+15635905,Moran,616,Spain,Female,32,6,0,2,Yes,Yes,43001.46,Retained,Adult,Fair,Zero Balance
+15777892,Samsonova,721,Germany,Male,37,3,107720.64,1,Yes,Yes,158591.12,Retained,Adult,Good,High balance
+15656176,Jenkins,501,France,Male,57,10,0,2,Yes,Yes,47847.19,Retained,Middle-Aged,Poor,Zero Balance
+15811127,Volkov,521,France,Male,35,6,96423.84,1,Yes,No,10488.44,Retained,Adult,Poor,Medium Balance
+15604482,Chiemezie,850,Spain,Male,30,2,141040.01,1,Yes,Yes,5978.2,Retained,Young Adult,Excellent,High balance
+15622911,Jude,759,France,Male,42,4,105420.18,1,No,Yes,121409.06,Retained,Adult,Very Good,High balance
+15600974,He,516,Spain,Male,50,5,0,1,No,Yes,146145.93,Exited,Middle-Aged,Poor,Zero Balance
+15727868,Onuora,711,France,Female,38,2,129022.06,2,Yes,Yes,14374.86,Exited,Adult,Good,High balance
+15627801,Ginikanwa,512,Spain,Male,33,3,176666.62,1,Yes,No,94670.77,Retained,Adult,Poor,High balance
+15773039,Ku,550,France,Male,37,3,0,1,Yes,Yes,179670.31,Retained,Adult,Poor,Zero Balance
+15755262,McDonald,608,Spain,Female,41,3,89763.84,1,No,No,199304.74,Exited,Adult,Fair,Medium Balance
+15679531,Collins,618,France,Male,34,5,134954.53,1,Yes,Yes,151954.39,Retained,Adult,Fair,High balance
+15684181,Hackett,643,France,Male,45,5,0,1,Yes,No,142513.5,Exited,Adult,Fair,Zero Balance
+15612087,Dike,671,France,Male,45,2,106376.85,1,No,Yes,158264.62,Retained,Adult,Good,High balance
+15752047,Trevisano,689,Germany,Male,33,2,161814.64,2,Yes,No,169381.9,Retained,Adult,Good,High balance
+15624592,Tan,603,France,Male,31,8,0,2,Yes,Yes,169915.02,Retained,Adult,Fair,Zero Balance
+15573152,Glassman,620,France,Female,41,9,0,2,No,No,88852.47,Retained,Adult,Fair,Zero Balance
+15594917,Miller,676,France,Female,34,1,63095.01,1,Yes,Yes,40645.81,Retained,Adult,Good,Medium Balance
+15785542,Kornilova,572,Germany,Male,26,4,118287.01,2,No,No,60427.3,Retained,Young Adult,Poor,High balance
+15723488,Watson,668,Germany,Male,47,7,106854.21,1,No,Yes,157959.02,Exited,Middle-Aged,Fair,High balance
+15680920,Marchesi,695,France,Male,46,7,49512.55,1,Yes,No,133007.34,Retained,Middle-Aged,Good,Low Balance
+15786308,Millar,730,Spain,Female,33,9,0,2,No,No,176576.62,Retained,Adult,Good,Zero Balance
+15659366,Shih,807,France,Male,43,1,105799.32,2,Yes,No,34888.04,Exited,Adult,Excellent,High balance
+15774854,Fuller,592,France,Male,54,8,0,1,Yes,Yes,28737.71,Exited,Middle-Aged,Fair,Zero Balance
+15725311,Hay,726,France,Female,31,9,114722.05,2,Yes,Yes,98178.57,Retained,Adult,Good,High balance
+15787155,Yang,514,Spain,Male,30,7,0,1,No,Yes,125010.24,Retained,Young Adult,Poor,Zero Balance
+15727829,McIntyre,567,France,Male,42,2,0,2,Yes,Yes,167984.61,Retained,Adult,Poor,Zero Balance
+15733247,Stevenson,850,France,Male,33,10,0,1,Yes,No,4861.72,Exited,Adult,Excellent,Zero Balance
+15568748,Poole,671,Germany,Male,45,6,99564.22,1,Yes,Yes,108872.45,Exited,Adult,Good,Medium Balance
+15699029,Bagley,670,France,Male,37,4,170557.91,2,Yes,No,198252.88,Retained,Adult,Good,High balance
+15774393,Ch'ien,694,France,Female,30,9,0,2,Yes,Yes,26960.31,Retained,Young Adult,Good,Zero Balance
+15676895,Cattaneo,547,Germany,Female,39,6,74596.15,3,Yes,Yes,85746.52,Exited,Adult,Poor,Medium Balance
+15637753,O'Sullivan,751,Germany,Male,50,2,96888.39,1,Yes,No,77206.25,Exited,Middle-Aged,Very Good,Medium Balance
+15605461,Lucas,594,Germany,Female,29,3,130830.22,1,Yes,No,61048.53,Retained,Young Adult,Fair,High balance
+15808473,Ringrose,673,France,Male,72,1,0,2,No,Yes,111981.19,Retained,Senior,Good,Zero Balance
+15627000,Freeman,610,France,Male,40,0,0,2,Yes,No,62232.6,Retained,Adult,Fair,Zero Balance
+15787174,Sergeyev,512,France,Female,37,1,0,2,No,Yes,156105.03,Retained,Adult,Poor,Zero Balance
+15723886,Fiore,767,Germany,Male,20,3,119714.25,2,No,Yes,150135.38,Retained,Young Adult,Very Good,High balance
+15704769,Smith,585,France,Female,67,5,113978.97,2,No,Yes,93146.11,Retained,Senior,Fair,High balance
+15772896,Dumetochukwu,763,Germany,Male,42,6,100160.75,1,Yes,No,33462.94,Exited,Adult,Very Good,High balance
+15711540,Pacheco,712,France,Female,29,2,0,1,Yes,Yes,144375,Retained,Young Adult,Good,Zero Balance
+15764866,Synnot,539,Germany,Female,43,3,116220.5,3,Yes,No,55803.96,Exited,Adult,Poor,High balance
+15794056,Johnston,668,France,Female,46,2,0,3,Yes,No,89048.46,Exited,Middle-Aged,Fair,Zero Balance
+15795149,Stevens,703,France,Male,28,2,81173.83,2,No,Yes,162812.16,Retained,Young Adult,Good,Medium Balance
+15812009,Grant,662,Spain,Male,38,4,0,2,Yes,No,136259.65,Retained,Adult,Fair,Zero Balance
+15651001,Tsao,725,Germany,Female,39,5,116803.8,1,Yes,No,124052.97,Retained,Adult,Good,High balance
+15813844,Barnes,703,France,Male,37,8,105961.68,2,No,Yes,74158.8,Retained,Adult,Good,High balance
+15596175,McIntosh,659,Germany,Male,67,6,117411.6,1,Yes,Yes,45071.09,Exited,Senior,Fair,High balance
+15576269,Madison,523,Spain,Male,34,7,0,2,Yes,No,62030.06,Retained,Adult,Poor,Zero Balance
+15797219,Ifesinachi,635,France,Female,40,10,123497.58,1,Yes,No,131953.23,Exited,Adult,Fair,High balance
+15685500,Glazkov,772,Germany,Male,26,7,152400.51,2,Yes,No,79414,Retained,Young Adult,Very Good,High balance
+15599792,Dimauro,545,France,Female,26,1,0,2,Yes,Yes,199638.56,Retained,Young Adult,Poor,Zero Balance
+15657566,Wieck,634,Germany,Male,24,8,103097.85,1,Yes,Yes,157577.29,Retained,Young Adult,Fair,High balance
+15772423,Liao,739,Germany,Male,54,8,126418.14,1,Yes,No,134420.75,Exited,Middle-Aged,Good,High balance
+15628112,Hughes,771,Germany,Female,36,5,77846.9,1,No,No,99805.99,Retained,Adult,Very Good,Medium Balance
+15753754,Morrison,587,Spain,Female,34,1,0,2,Yes,Yes,97932.68,Retained,Adult,Fair,Zero Balance
+15793726,Matveyeva,681,France,Female,79,0,0,2,No,Yes,170968.99,Retained,Senior,Good,Zero Balance
+15694717,Ku,544,Germany,Male,37,2,79731.91,1,Yes,Yes,57558.95,Retained,Adult,Poor,Medium Balance
+15665834,Cheatham,696,Spain,Male,28,8,0,1,No,No,176713.47,Retained,Young Adult,Good,Zero Balance
+15765297,Yao,766,Spain,Male,41,0,0,2,No,Yes,34283.23,Retained,Adult,Very Good,Zero Balance
+15636684,Kirkland,727,France,Male,34,10,0,2,Yes,Yes,198637.34,Retained,Adult,Good,Zero Balance
+15592979,Rose,671,Germany,Female,34,6,37266.67,2,No,No,156917.12,Retained,Adult,Good,Low Balance
+15750803,Jess,693,France,Female,30,6,127992.25,1,Yes,Yes,50457.2,Retained,Young Adult,Good,High balance
+15607178,Welch,850,Germany,Male,38,3,54901.01,1,Yes,Yes,140075.55,Retained,Adult,Excellent,Medium Balance
+15713853,Ifeajuna,732,Germany,Male,42,9,108748.08,2,Yes,Yes,65323.11,Retained,Adult,Good,High balance
+15673481,Morton,726,Spain,Female,48,6,99906.19,1,Yes,No,64323.24,Retained,Middle-Aged,Good,Medium Balance
+15686776,Rossi,557,France,Female,32,6,184686.41,2,Yes,No,14956.44,Retained,Adult,Poor,High balance
+15673693,Reppert,682,France,Female,26,0,110654.02,1,No,Yes,111879.21,Retained,Young Adult,Good,High balance
+15700696,Kang,738,Spain,Male,31,9,79019.8,1,Yes,Yes,18606.23,Retained,Adult,Good,Medium Balance
+15813163,Ch'iu,531,Spain,Female,36,9,99240.51,1,Yes,No,123137.01,Retained,Adult,Poor,Medium Balance
+15653857,Wallis,498,France,Male,34,2,0,2,Yes,Yes,148528.24,Retained,Adult,Poor,Zero Balance
+15777076,Clark,651,France,Male,36,7,0,2,Yes,No,13898.31,Retained,Adult,Fair,Zero Balance
+15717398,Fielding,549,Spain,Female,39,7,0,1,No,No,81259.25,Exited,Adult,Poor,Zero Balance
+15799217,Zetticci,791,Germany,Female,35,7,52436.2,1,Yes,No,161051.75,Retained,Adult,Very Good,Medium Balance
+15787071,Dulhunty,650,Spain,Male,41,9,0,2,No,Yes,191599.67,Retained,Adult,Fair,Zero Balance
+15619955,Bevington,733,Germany,Male,34,3,100337.96,3,Yes,No,48559.19,Exited,Adult,Good,High balance
+15796505,Boyle,811,Germany,Female,34,1,149297.19,2,Yes,Yes,186339.74,Retained,Adult,Excellent,High balance
+15725166,Newton,707,France,Male,30,8,0,2,Yes,No,33159.37,Retained,Young Adult,Good,Zero Balance
+15800116,Bowman,712,Germany,Male,28,4,145605.44,1,No,Yes,93883.53,Retained,Young Adult,Good,High balance
+15758685,Dubinina,706,Spain,Female,37,7,0,2,Yes,Yes,110899.3,Retained,Adult,Good,Zero Balance
+15694456,Toscani,756,France,Male,62,3,0,1,Yes,Yes,11199.04,Exited,Senior,Very Good,Zero Balance
+15767339,Chiazagomekpere,777,France,Female,53,10,0,2,Yes,No,189992.97,Retained,Middle-Aged,Very Good,Zero Balance
+15683562,Allen,646,France,Male,35,6,84026.86,1,No,Yes,164255.69,Retained,Adult,Fair,Medium Balance
+15782210,K'ung,714,France,Male,46,1,0,1,Yes,No,152167.79,Exited,Middle-Aged,Good,Zero Balance
+15668893,Wilsmore,782,France,Male,39,8,0,2,Yes,Yes,33949.67,Retained,Adult,Very Good,Zero Balance
+15669169,Hargreaves,775,Spain,Male,29,10,0,2,Yes,Yes,68143.93,Retained,Young Adult,Very Good,Zero Balance
+15643024,Huang,479,Germany,Male,35,4,138718.92,1,Yes,Yes,47251.79,Exited,Adult,Poor,High balance
+15699389,Ch'ien,807,France,Male,42,7,118274.71,1,Yes,Yes,25885.72,Retained,Adult,Excellent,High balance
+15708608,Wallwork,799,France,Female,22,8,174185.98,2,No,Yes,192633.85,Retained,Young Adult,Very Good,High balance
+15626144,Chu,675,France,Male,40,7,113208.86,2,Yes,No,34577.36,Retained,Adult,Good,High balance
+15573112,Kang,602,Spain,Male,29,5,103907.28,1,Yes,No,161229.84,Retained,Young Adult,Fair,High balance
+15790678,Davidson,475,France,Female,32,8,119023.28,1,Yes,No,100816.29,Retained,Adult,Poor,High balance
+15727556,O'Donnell,744,Spain,Female,26,5,166297.89,1,Yes,Yes,181694.44,Retained,Young Adult,Very Good,High balance
+15697307,Nnachetam,588,Spain,Male,34,10,0,2,Yes,No,79078.91,Retained,Adult,Fair,Zero Balance
+15652266,Chidiebele,703,Germany,Male,42,9,63227,1,No,Yes,137316.32,Retained,Adult,Good,Medium Balance
+15607098,Ahmed,747,Spain,Female,41,5,94521.17,2,Yes,No,194926.86,Retained,Adult,Very Good,Medium Balance
+15655774,Booth,583,France,Male,27,7,0,2,Yes,No,51285.49,Retained,Young Adult,Fair,Zero Balance
+15590241,Chuang,750,Spain,Female,34,9,112822.26,1,No,No,150401.53,Exited,Adult,Very Good,High balance
+15785819,Shao,681,France,Male,38,3,0,2,Yes,Yes,112491.96,Retained,Adult,Good,Zero Balance
+15723654,Tsao,773,France,Male,25,2,135903.33,1,Yes,No,73656.38,Retained,Young Adult,Very Good,High balance
+15774510,Tien,714,France,Female,31,4,125169.26,1,Yes,Yes,106636.89,Retained,Adult,Good,High balance
+15684173,Chang,687,Spain,Female,44,7,0,3,Yes,No,155853.52,Exited,Adult,Good,Zero Balance
+15650068,Johnson,511,France,Male,58,0,149117.31,1,Yes,Yes,162599.51,Retained,Middle-Aged,Poor,High balance
+15811490,French,627,France,Male,33,5,0,2,Yes,Yes,103737.82,Retained,Adult,Fair,Zero Balance
+15803976,Efremov,694,France,Female,31,10,0,2,Yes,No,160990.27,Retained,Adult,Good,Zero Balance
+15682541,Hartley,616,Spain,Female,36,6,132311.71,1,No,No,15462.84,Retained,Adult,Fair,High balance
+15695699,Calabrese,687,France,Male,35,8,0,2,Yes,No,10334.05,Retained,Adult,Good,Zero Balance
+15624188,Chiu,712,France,Female,33,6,0,2,Yes,Yes,190686.16,Retained,Adult,Good,Zero Balance
+15812191,Brennan,553,France,Male,33,4,118082.89,1,No,No,94440.45,Retained,Adult,Poor,High balance
+15636673,Onwuatuegwu,667,France,Male,31,1,119266.69,1,Yes,Yes,28257.63,Retained,Adult,Fair,High balance
+15594898,Hewitt,731,France,Male,43,2,0,1,Yes,Yes,170034.95,Exited,Adult,Good,Zero Balance
+15660211,Shih,629,Germany,Male,35,7,156847.29,2,Yes,No,31824.29,Retained,Adult,Fair,High balance
+15773972,Balashov,614,France,Male,50,4,137104.47,1,Yes,No,127166.49,Exited,Middle-Aged,Fair,High balance
+15746726,Doyle,438,Germany,Male,31,8,78398.69,1,Yes,No,44937.01,Retained,Adult,Poor,Medium Balance
+15712287,Pokrovskii,652,France,Female,80,4,0,2,Yes,Yes,188603.07,Retained,Senior,Fair,Zero Balance
+15702919,Collins,729,Germany,Male,30,6,63669.42,1,Yes,No,145111.37,Retained,Young Adult,Good,Medium Balance
+15674398,Russo,642,France,Male,38,3,0,2,No,No,171463.83,Retained,Adult,Fair,Zero Balance
+15797960,Skinner,806,Germany,Female,59,0,135296.33,1,Yes,No,182822.5,Retained,Middle-Aged,Excellent,High balance
+15631868,Robertson,744,Spain,Male,36,2,153804.44,1,Yes,Yes,87213.33,Retained,Adult,Very Good,High balance
+15581539,Atkinson,474,Spain,Male,37,3,0,2,No,No,57175.32,Retained,Adult,Poor,Zero Balance
+15662736,Doyle,559,France,Male,49,2,147069.78,1,Yes,No,120540.83,Exited,Middle-Aged,Poor,High balance
+15666252,Ritchie,706,Spain,Male,42,9,0,2,Yes,Yes,28714.34,Retained,Adult,Good,Zero Balance
+15677512,McEncroe,628,Spain,Female,22,3,0,1,Yes,No,85426.28,Retained,Young Adult,Fair,Zero Balance
+15626114,Pearson,429,France,Male,24,4,95741.75,1,Yes,No,46170.75,Retained,Young Adult,Poor,Medium Balance
+15810834,Gordon,525,Spain,Female,57,2,145965.33,1,Yes,Yes,64448.36,Retained,Middle-Aged,Poor,High balance
+15678910,Ts'ai,680,France,Female,30,8,141441.75,1,Yes,Yes,16278.97,Retained,Young Adult,Good,High balance
+15694408,Lung,749,France,Male,40,1,139290.41,1,Yes,No,182855.42,Exited,Adult,Very Good,High balance
+15585215,Yuan,763,France,Female,31,4,0,2,No,No,50404.72,Retained,Adult,Very Good,Zero Balance
+15682757,Pardey,734,France,Male,30,3,0,2,Yes,No,107640.25,Retained,Young Adult,Good,Zero Balance
+15736601,Tai,716,France,Male,35,4,144428.87,1,Yes,No,134132.65,Retained,Adult,Good,High balance
+15601848,Scott,594,France,Male,35,2,0,2,Yes,No,103480.69,Retained,Adult,Fair,Zero Balance
+15736008,Hunter,644,France,Female,46,9,95441.27,1,Yes,No,108761.05,Exited,Middle-Aged,Fair,Medium Balance
+15669064,Mazzanti,671,Germany,Male,35,1,144848.74,1,Yes,Yes,179012.3,Retained,Adult,Good,High balance
+15624528,L?,664,Germany,Male,26,7,116244.14,2,Yes,Yes,95145.14,Retained,Young Adult,Fair,High balance
+15598493,Beach,656,France,Male,50,7,0,2,No,Yes,72143.44,Retained,Middle-Aged,Fair,Zero Balance
+15601274,Hsieh,667,Spain,Female,40,1,146502.07,1,Yes,No,19162.89,Retained,Adult,Fair,High balance
+15702669,Faulkner,663,Germany,Male,44,2,117028.6,2,No,Yes,144680.18,Retained,Adult,Fair,High balance
+15728669,Knowles,584,Germany,Female,30,8,112013.81,1,Yes,No,177772.03,Exited,Young Adult,Fair,High balance
+15742668,Day,626,Spain,Female,37,6,108269.37,1,Yes,No,5597.94,Retained,Adult,Fair,High balance
+15697441,Hsueh,485,France,Male,29,7,182123.79,1,Yes,No,116828.51,Exited,Young Adult,Poor,High balance
+15740476,Tsao,659,Germany,Female,32,3,150923.74,2,No,Yes,174652.51,Retained,Adult,Fair,High balance
+15648064,Kennedy,649,France,Male,33,2,0,2,Yes,No,2010.98,Retained,Adult,Fair,Zero Balance
+15636624,Nwabugwu,805,Spain,Female,39,5,165272.13,1,Yes,No,14109.85,Exited,Adult,Excellent,High balance
+15807923,Young,716,Germany,Female,39,10,115301.31,1,Yes,No,43527.4,Exited,Adult,Good,High balance
+15745844,Kerr,642,Germany,Female,40,6,129502.49,2,No,Yes,86099.23,Exited,Adult,Fair,High balance
+15786170,Tien,659,France,Male,31,4,118342.26,1,No,No,161574.19,Retained,Adult,Fair,High balance
+15681081,Marrero,545,Spain,Female,47,5,0,2,Yes,Yes,38970.14,Retained,Middle-Aged,Poor,Zero Balance
+15684484,White,543,France,Male,22,8,0,2,No,No,127587.22,Retained,Young Adult,Poor,Zero Balance
+15785869,Pisano,718,France,Female,25,7,0,2,Yes,No,30380.12,Retained,Young Adult,Good,Zero Balance
+15763859,Brown,840,France,Female,43,7,0,2,Yes,No,90908.95,Retained,Adult,Excellent,Zero Balance
+15658935,Freeman,630,Germany,Female,34,9,106937.05,2,Yes,No,138275.01,Retained,Adult,Fair,High balance
+15747358,Russell,643,Germany,Male,59,3,170331.37,1,Yes,Yes,32171.79,Retained,Middle-Aged,Fair,High balance
+15735203,Seleznyov,654,Germany,Female,32,1,114510.85,1,Yes,Yes,126143.23,Retained,Adult,Fair,High balance
+15576256,Yusupova,582,France,Male,39,5,0,2,Yes,Yes,129892.93,Retained,Adult,Fair,Zero Balance
+15659420,Foley,659,Spain,Male,32,3,107594.11,2,Yes,Yes,102416.84,Retained,Adult,Fair,High balance
+15593365,Shih,762,Spain,Male,39,2,81273.13,1,Yes,Yes,18719.67,Retained,Adult,Very Good,Medium Balance
+15777352,Ikedinachukwu,568,Spain,Female,32,7,169399.6,1,Yes,No,61936.22,Retained,Adult,Poor,High balance
+15812007,Power,670,Spain,Male,25,6,0,2,Yes,Yes,78358.94,Retained,Young Adult,Good,Zero Balance
+15625461,Amos,613,France,Female,45,1,187841.99,2,Yes,Yes,147224.27,Retained,Adult,Fair,High balance
+15739438,Reed,539,France,Male,30,0,0,2,Yes,No,160979.66,Retained,Young Adult,Poor,Zero Balance
+15611759,Simmons,850,Spain,Female,57,8,126776.3,2,Yes,Yes,132298.49,Retained,Middle-Aged,Excellent,High balance
+15661629,Ricci,522,Spain,Male,34,9,126436.29,1,Yes,No,174248.52,Exited,Adult,Poor,High balance
+15633950,Yen,737,France,Male,41,1,101960.74,1,Yes,Yes,123547.28,Retained,Adult,Good,High balance
+15592386,Campbell,520,France,Male,58,3,0,2,No,Yes,32790.02,Retained,Middle-Aged,Poor,Zero Balance
+15803716,West,706,Spain,Male,28,3,0,2,No,Yes,181543.67,Retained,Young Adult,Good,Zero Balance
+15696674,Robinson,643,Germany,Female,45,2,150842.93,1,No,Yes,2319.96,Exited,Adult,Fair,High balance
+15706365,Bianchi,648,France,Female,50,9,102535.57,1,Yes,Yes,189543.19,Retained,Middle-Aged,Fair,High balance
+15745088,Chen,443,Germany,Female,29,9,99027.61,2,Yes,No,10940.4,Retained,Young Adult,Poor,Medium Balance
+15676715,Madukaego,640,France,Male,68,9,0,2,Yes,Yes,199493.38,Retained,Senior,Fair,Zero Balance
+15613085,Ibrahimova,628,Spain,Female,33,3,0,1,Yes,Yes,188193.25,Retained,Adult,Fair,Zero Balance
+15633537,Nolan,540,Germany,Female,42,9,87271.41,2,Yes,No,172572.64,Retained,Adult,Poor,Medium Balance
+15594720,Scott,460,Germany,Female,35,8,102742.91,2,Yes,Yes,189339.6,Retained,Adult,Poor,High balance
+15684042,Blair,636,Germany,Male,34,2,40105.51,2,No,Yes,53512.16,Retained,Adult,Fair,Low Balance
+15583303,Monaldo,593,France,Female,29,2,152265.43,1,Yes,No,34004.44,Retained,Young Adult,Fair,High balance
+15611579,Sutherland,801,Spain,Male,42,4,141947.67,1,Yes,Yes,10598.29,Retained,Adult,Excellent,High balance
+15774696,Cole,640,Germany,Female,75,1,106307.91,2,No,Yes,113428.77,Retained,Senior,Fair,High balance
+15694506,Briggs,611,Germany,Male,31,0,107884.81,2,Yes,Yes,183487.98,Retained,Adult,Fair,High balance
+15688074,Gregory,802,Germany,Male,31,1,125013.72,1,Yes,Yes,187658.09,Retained,Adult,Excellent,High balance
+15759537,Bianchi,717,Germany,Male,35,7,58469.37,2,Yes,Yes,172459.39,Retained,Adult,Good,Medium Balance
+15758449,Angelo,769,France,Female,39,8,0,1,No,Yes,21016,Retained,Adult,Very Good,Zero Balance
+15583456,Gardiner,745,Germany,Male,45,10,117231.63,3,Yes,Yes,122381.02,Exited,Adult,Very Good,High balance
+15667871,Kerr,572,Spain,Male,35,4,152390.26,1,Yes,No,128123.66,Retained,Adult,Poor,High balance
+15677371,Ko,629,Spain,Female,30,2,34013.63,1,Yes,No,19570.63,Retained,Young Adult,Fair,Low Balance
+15629677,Distefano,687,Spain,Female,39,2,0,3,No,No,188150.6,Exited,Adult,Good,Zero Balance
+15713578,Farrell,483,France,Female,50,9,0,2,Yes,Yes,111020.24,Retained,Middle-Aged,Poor,Zero Balance
+15591509,Milano,690,France,Male,36,7,101583.11,2,Yes,No,123775.15,Retained,Adult,Good,High balance
+15568240,Ting,492,Germany,Female,30,10,77168.87,2,No,Yes,146700.22,Retained,Young Adult,Poor,Medium Balance
+15622993,Boyd,709,Germany,Male,28,8,124695.72,2,Yes,No,145251.35,Retained,Young Adult,Good,High balance
+15689294,Onyemaechi,705,Germany,Male,44,3,105934.96,1,Yes,No,82463.69,Retained,Adult,Good,High balance
+15720910,Black,560,France,Female,66,9,0,1,Yes,Yes,15928.49,Retained,Senior,Poor,Zero Balance
+15721181,Oliver,611,Spain,Male,46,6,0,2,Yes,No,45886.33,Retained,Middle-Aged,Fair,Zero Balance
+15776433,Greco,730,Spain,Male,62,2,0,2,Yes,Yes,186489.95,Retained,Senior,Good,Zero Balance
+15748936,Whitehead,709,Spain,Female,45,2,0,2,No,Yes,162922.65,Retained,Adult,Good,Zero Balance
+15717225,Ikemefuna,544,France,Female,21,10,161525.96,2,Yes,No,9262.77,Retained,Young Adult,Poor,High balance
+15685226,Morrison,712,Germany,Female,29,7,147199.07,1,Yes,Yes,84932.4,Retained,Young Adult,Good,High balance
+15785611,Onyeoruru,752,Germany,Male,38,3,183102.29,1,Yes,Yes,71557.12,Retained,Adult,Very Good,High balance
+15573456,Cunningham,648,Spain,Male,46,9,127209,2,Yes,No,77405.95,Exited,Middle-Aged,Fair,High balance
+15684548,Demidov,556,Spain,Male,38,8,0,2,No,No,417.41,Exited,Adult,Poor,Zero Balance
+15620505,Celis,594,Spain,Female,24,0,97378.54,1,Yes,Yes,71405.17,Retained,Young Adult,Fair,Medium Balance
+15807432,Cheng,645,Germany,Female,37,2,136925.09,2,No,Yes,153400.24,Retained,Adult,Fair,High balance
+15584766,Knight,557,France,Male,33,3,54503.55,1,Yes,Yes,371.05,Retained,Adult,Poor,Medium Balance
+15612187,Morin,547,Germany,Male,32,8,155726.85,1,Yes,No,67789.99,Retained,Adult,Poor,High balance
+15762218,Mills,701,France,Female,39,9,0,2,No,Yes,145894.9,Retained,Adult,Good,Zero Balance
+15646372,Outhwaite,616,France,Female,66,1,135842.41,1,Yes,No,183840.51,Exited,Senior,Fair,High balance
+15690452,Tung,605,France,Male,52,1,63349.75,1,Yes,No,108887.44,Retained,Middle-Aged,Fair,Medium Balance
+15747795,Pai,593,Germany,Female,38,4,129499.42,1,Yes,Yes,154071.27,Retained,Adult,Fair,High balance
+15781589,Carpenter,751,Spain,Male,52,8,0,2,No,Yes,179291.85,Retained,Middle-Aged,Very Good,Zero Balance
+15732674,Fennell,443,Spain,Male,36,6,70438.01,2,No,Yes,56937.43,Retained,Adult,Poor,Medium Balance
+15642291,Fontaine,685,France,Male,23,8,0,2,Yes,Yes,112239.03,Retained,Young Adult,Good,Zero Balance
+15692761,Pratt,718,France,Male,36,9,0,1,Yes,No,45909.87,Retained,Adult,Good,Zero Balance
+15578045,Mitchell,538,Spain,Female,49,9,141434.04,1,No,No,173779.25,Exited,Middle-Aged,Poor,High balance
+15745354,Franklin,611,Spain,Female,37,4,0,2,Yes,No,125696.26,Retained,Adult,Fair,Zero Balance
+15701376,K'ung,668,Germany,Male,37,10,152958.29,2,Yes,Yes,159585.61,Retained,Adult,Fair,High balance
+15691625,Ko,537,Germany,Female,41,3,138306.34,1,Yes,No,106761.47,Retained,Adult,Poor,High balance
+15566594,McKenzie,709,Spain,Male,23,10,0,2,No,No,129590.18,Retained,Young Adult,Good,Zero Balance
+15760431,Pino,850,France,Male,38,1,0,2,Yes,Yes,80006.65,Retained,Adult,Excellent,Zero Balance
+15686302,Fisk,745,Spain,Female,31,3,124328.84,1,Yes,Yes,140451.52,Retained,Adult,Very Good,High balance
+15801559,Chiang,693,Germany,Female,41,9,181461.48,3,Yes,Yes,187929.43,Exited,Adult,Good,High balance
+15810432,Moseley,795,Spain,Male,35,8,0,2,Yes,No,167155.36,Retained,Adult,Very Good,Zero Balance
+15809616,Hsiung,626,Spain,Male,26,8,0,2,No,No,191420.71,Retained,Young Adult,Fair,Zero Balance
+15720559,Heath,487,Germany,Female,61,5,110368.03,1,No,No,11384.45,Exited,Senior,Poor,High balance
+15695632,Dellucci,556,France,Female,39,9,89588.35,1,Yes,Yes,94898.1,Retained,Adult,Poor,Medium Balance
+15659843,Li,643,France,Female,46,6,0,2,No,No,106781.59,Retained,Middle-Aged,Fair,Zero Balance
+15615624,De Salis,605,France,Female,28,6,0,2,No,No,159508.52,Retained,Young Adult,Fair,Zero Balance
+15810418,T'ang,756,Germany,Female,60,3,115924.89,1,Yes,No,93524.19,Exited,Middle-Aged,Very Good,High balance
+15716186,Richardson,586,France,Female,38,2,0,2,Yes,No,87168.46,Retained,Adult,Fair,Zero Balance
+15674551,Fitch,535,Germany,Male,40,7,111756.5,1,Yes,No,8128.32,Exited,Adult,Poor,High balance
+15622834,Stevenson,678,France,Female,35,4,0,1,Yes,No,125518.32,Retained,Adult,Good,Zero Balance
+15566111,Estes,596,France,Male,39,9,0,1,Yes,No,48963.59,Retained,Adult,Fair,Zero Balance
+15784597,Lattimore,648,France,Male,26,9,162923.85,1,Yes,No,98368.24,Retained,Young Adult,Fair,High balance
+15652883,Chung,492,Germany,Male,39,10,124576.65,2,Yes,No,148584.61,Retained,Adult,Poor,High balance
+15806964,Utz,702,France,Male,45,0,80793.58,1,Yes,Yes,27474.81,Retained,Adult,Good,Medium Balance
+15576313,Wei,486,Germany,Female,40,9,71340.09,1,Yes,No,76192.21,Retained,Adult,Poor,Medium Balance
+15806467,Boyle,568,Germany,Male,40,1,99282.63,1,No,No,134600.94,Exited,Adult,Poor,Medium Balance
+15597602,Nwachinemelu,619,Germany,Male,57,3,137946.39,1,Yes,Yes,72467.99,Exited,Middle-Aged,Fair,High balance
+15743040,Kuznetsova,724,Germany,Male,41,2,127892.57,2,No,Yes,199645.45,Retained,Adult,Good,High balance
+15705521,Pisani,548,Germany,Female,33,0,101084.36,1,Yes,No,42749.85,Retained,Adult,Poor,High balance
+15595039,Manna,545,Germany,Female,37,8,114754.08,1,Yes,No,136050.44,Exited,Adult,Poor,High balance
+15799384,Collier,683,France,Male,33,8,0,1,No,No,73564.44,Retained,Adult,Good,Zero Balance
+15581197,Ricci,762,France,Female,51,3,99286.98,1,No,Yes,85578.63,Retained,Middle-Aged,Very Good,Medium Balance
+15693737,Carr,627,Germany,Female,30,4,79871.02,2,Yes,No,129826.89,Retained,Young Adult,Fair,Medium Balance
+15624623,Hs?,516,France,Male,35,10,104088.59,2,No,No,119666,Retained,Adult,Poor,High balance
+15783501,Findlay,800,France,Female,38,2,168190.33,2,Yes,No,68052.08,Retained,Adult,Excellent,High balance
+15690134,Hughes,464,Germany,Female,42,3,85679.25,1,Yes,Yes,164104.74,Retained,Adult,Poor,Medium Balance
+15782735,Chukwuemeka,626,France,Female,35,3,0,1,No,No,80190.36,Retained,Adult,Fair,Zero Balance
+15611088,Genovese,790,France,Female,31,9,0,2,Yes,No,84126.75,Retained,Adult,Very Good,Zero Balance
+15672145,Swift,534,France,Female,34,7,121551.58,2,Yes,Yes,70179,Retained,Adult,Poor,High balance
+15732628,Ugoji,745,France,Male,46,2,122220.19,1,Yes,Yes,118024.1,Retained,Middle-Aged,Very Good,High balance
+15787470,Parkinson,553,Spain,Male,47,3,116528.15,1,No,No,145704.19,Exited,Middle-Aged,Poor,High balance
+15803406,Ross,748,France,Female,26,1,77780.29,1,No,Yes,183049.41,Retained,Young Adult,Very Good,Medium Balance
+15730460,Oleary,722,France,Male,37,2,0,1,No,No,120906.83,Retained,Adult,Good,Zero Balance
+15644572,Turnbull,501,France,Male,40,4,125832.2,1,Yes,Yes,100433.83,Retained,Adult,Poor,High balance
+15694860,Uspensky,675,France,Female,38,6,68065.8,1,No,No,138777,Exited,Adult,Good,Medium Balance
+15658169,Cook,778,Spain,Female,47,6,127299.34,2,Yes,No,124694.99,Retained,Middle-Aged,Very Good,High balance
+15794396,Newbold,494,Germany,Female,38,7,174937.64,1,Yes,No,40084.32,Retained,Adult,Poor,High balance
+15785798,Uchechukwu,850,France,Male,40,9,0,2,No,Yes,119232.33,Retained,Adult,Excellent,Zero Balance
+15710825,Ch'en,592,Spain,Male,31,7,110071.1,1,No,No,43921.36,Retained,Adult,Fair,High balance
+15668444,He,590,Spain,Female,44,3,139432.37,1,Yes,No,62222.81,Retained,Adult,Fair,High balance
+15726631,Hilton,758,France,Female,39,6,127357.76,1,No,Yes,56577,Retained,Adult,Very Good,High balance
+15733797,Sal,506,France,Male,36,5,0,2,Yes,No,164253.35,Retained,Adult,Poor,Zero Balance
+15747960,Eluemuno,733,France,Male,33,3,0,1,Yes,Yes,7666.73,Retained,Adult,Good,Zero Balance
+15634632,Titus,711,France,Male,38,3,0,2,Yes,No,68487.51,Retained,Adult,Good,Zero Balance
+15707362,Yin,514,Germany,Male,43,1,95556.31,1,No,Yes,199273.98,Exited,Adult,Poor,Medium Balance
+15662976,Lettiere,637,Spain,Male,37,8,0,1,Yes,Yes,186062.36,Retained,Adult,Fair,Zero Balance
+15732778,Templeman,468,Germany,Male,29,1,111681.98,2,Yes,Yes,195711.16,Retained,Young Adult,Poor,High balance
+15718443,Chibuzo,539,France,Male,39,3,0,2,Yes,No,36692.17,Retained,Adult,Poor,Zero Balance
+15670039,Sun,509,Spain,Female,25,3,108738.71,2,Yes,No,106920.57,Retained,Young Adult,Poor,High balance
+15773792,Evans,662,France,Female,32,4,133950.37,1,Yes,Yes,48725.68,Exited,Adult,Fair,High balance
+15613786,Ogbonnaya,818,Spain,Male,26,4,0,2,Yes,Yes,167036.94,Retained,Young Adult,Excellent,Zero Balance
+15726032,Enyinnaya,608,France,Male,33,9,89968.69,1,Yes,No,68777.26,Retained,Adult,Fair,Medium Balance
+15663252,Olisanugo,850,Spain,Female,32,9,0,2,Yes,Yes,18924.92,Retained,Adult,Excellent,Zero Balance
+15593782,Brookes,816,Germany,Female,38,5,130878.75,3,Yes,No,71905.77,Exited,Adult,Excellent,High balance
+15633283,Padovano,536,France,Male,35,8,0,2,Yes,No,64833.28,Retained,Adult,Poor,Zero Balance
+15749167,Fisk,753,France,Male,35,3,0,2,Yes,Yes,184843.77,Retained,Adult,Very Good,Zero Balance
+15759298,Shih,631,Spain,Male,27,10,134169.62,1,Yes,Yes,176730.02,Retained,Young Adult,Fair,High balance
+15683625,Hare,703,France,Male,37,1,149762.08,1,Yes,No,20629.4,Exited,Adult,Good,High balance
+15635367,Muir,774,France,Male,26,2,93844.69,1,Yes,No,28415.36,Retained,Young Adult,Very Good,Medium Balance
+15681705,Fanucci,785,France,Male,28,8,0,2,Yes,No,77231.27,Retained,Young Adult,Very Good,Zero Balance
+15603156,Elewechi,571,France,Female,33,1,0,2,Yes,No,102750.7,Retained,Adult,Poor,Zero Balance
+15591986,Johnston,621,Germany,Male,46,6,141078.37,1,No,No,34580.8,Exited,Middle-Aged,Fair,High balance
+15798888,Pisano,605,Germany,Female,31,1,117992.59,1,Yes,Yes,183598.77,Retained,Adult,Fair,High balance
+15809722,Ankudinov,611,France,Female,40,8,100812.33,2,Yes,No,147358.27,Retained,Adult,Fair,High balance
+15677538,Nwokike,569,France,Male,38,7,0,1,Yes,Yes,108469.2,Retained,Adult,Poor,Zero Balance
+15797736,Smith,658,France,Male,29,4,80262.6,1,Yes,Yes,20612.82,Retained,Young Adult,Fair,Medium Balance
+15695585,Atkins,788,Spain,Male,34,6,156478.62,1,No,Yes,181196.76,Retained,Adult,Very Good,High balance
+15744398,Burns,525,France,Female,23,5,0,2,Yes,No,160249.1,Retained,Young Adult,Poor,Zero Balance
+15750658,Obiuto,798,France,Male,37,8,0,3,No,No,110783.28,Retained,Adult,Very Good,Zero Balance
+15578186,Pirozzi,486,Germany,Male,37,9,115217.99,2,Yes,No,144995.33,Retained,Adult,Poor,High balance
+15676519,George,615,Spain,Male,61,9,0,2,Yes,No,150227.85,Exited,Senior,Fair,Zero Balance
+15637954,Lewis,730,France,Female,35,0,155470.55,1,Yes,Yes,53718.28,Retained,Adult,Good,High balance
+15758639,Moran,641,France,Male,37,7,0,2,Yes,No,75248.3,Retained,Adult,Fair,Zero Balance
+15613772,Dalrymple,542,France,Male,39,3,135096.77,1,Yes,Yes,14353.43,Exited,Adult,Poor,High balance
+15731744,Carslaw,692,France,Male,30,2,0,2,No,Yes,130486.57,Retained,Young Adult,Good,Zero Balance
+15807709,Kirby,714,Germany,Female,55,9,180075.22,1,Yes,Yes,100127.71,Retained,Middle-Aged,Good,High balance
+15714689,Houghton,591,Spain,Male,29,1,97541.24,1,Yes,Yes,196356.17,Retained,Young Adult,Fair,Medium Balance
+15699005,Martin,710,France,Female,41,2,156067.05,1,Yes,Yes,9983.88,Retained,Adult,Good,High balance
+15624170,Tan,639,France,Female,38,4,81550.94,2,No,Yes,118974.77,Retained,Adult,Fair,Medium Balance
+15725679,Hsia,531,France,Female,47,6,0,1,No,No,194998.34,Exited,Middle-Aged,Poor,Zero Balance
+15585865,Westerberg,673,France,Female,38,2,170061.92,2,No,No,134901.34,Exited,Adult,Good,High balance
+15804256,Hale,765,Germany,Male,36,8,92310.54,2,Yes,Yes,72924.56,Retained,Adult,Very Good,Medium Balance
+15662403,Kryukova,622,France,Female,32,6,169089.38,2,Yes,No,101057.95,Retained,Adult,Fair,High balance
+15733616,Sopuluchukwu,806,France,Male,40,5,80613.93,1,Yes,Yes,142838.64,Retained,Adult,Excellent,Medium Balance
+15591995,Barry,757,Germany,Male,26,8,121581.56,2,Yes,Yes,127059.04,Retained,Young Adult,Very Good,High balance
+15677020,Selezneva,570,France,Female,58,8,0,1,No,Yes,116503.92,Exited,Middle-Aged,Poor,Zero Balance
+15727688,Chizuoke,555,Spain,Male,32,4,0,2,Yes,Yes,54405.79,Retained,Adult,Poor,Zero Balance
+15715941,Lueck,692,France,Male,54,5,0,2,Yes,Yes,88721.84,Retained,Middle-Aged,Good,Zero Balance
+15714485,Udinese,774,France,Male,60,5,85891.55,1,Yes,No,74135.48,Exited,Middle-Aged,Very Good,Medium Balance
+15730059,Udobata,638,Spain,Male,44,9,77637.35,2,Yes,Yes,111346.22,Retained,Adult,Fair,Medium Balance
+15715527,Freeman,543,Spain,Female,41,4,0,1,No,No,194902.16,Retained,Adult,Poor,Zero Balance
+15576623,Outlaw,584,France,Male,31,5,0,2,Yes,No,31474.27,Retained,Adult,Fair,Zero Balance
+15805565,Obiuto,691,Germany,Male,30,7,116927.89,1,Yes,No,21198.39,Retained,Young Adult,Good,High balance
+15677307,Lo,684,Germany,Female,40,6,137326.65,1,Yes,No,186976.6,Retained,Adult,Good,High balance
+15773890,Okechukwu,733,France,Male,22,5,0,2,Yes,Yes,117202.19,Retained,Young Adult,Good,Zero Balance
+15598883,King,599,Spain,Female,37,2,0,2,Yes,Yes,143739.29,Retained,Adult,Fair,Zero Balance
+15568506,Forbes,524,Germany,Female,31,10,67238.98,2,Yes,Yes,161811.23,Retained,Adult,Poor,Medium Balance
+15761043,Macleod,632,Germany,Female,38,6,86569.76,2,Yes,No,98090.91,Retained,Adult,Fair,Medium Balance
+15782236,Gibbs,735,Spain,Male,34,5,0,2,No,No,71095.41,Retained,Adult,Good,Zero Balance
+15593601,Isayev,734,France,Male,34,6,133598.4,1,Yes,Yes,13107.24,Retained,Adult,Good,High balance
+15682048,Pisano,605,France,Female,51,3,136188.78,1,Yes,Yes,67110.59,Exited,Middle-Aged,Fair,High balance
+15746902,Belstead,793,Spain,Male,38,9,0,2,Yes,No,88225.02,Retained,Adult,Very Good,Zero Balance
+15752081,Vassiliev,468,France,Female,56,10,0,3,No,Yes,62256.87,Exited,Middle-Aged,Poor,Zero Balance
+15781307,Schneider,779,Germany,Male,37,7,120092.52,2,Yes,No,135925.72,Retained,Adult,Very Good,High balance
+15775912,Mazzanti,698,France,Male,48,4,101238.24,2,No,Yes,177815.87,Exited,Middle-Aged,Good,High balance
+15745417,Knipe,707,France,Male,58,6,89685.92,1,No,Yes,126471.13,Retained,Middle-Aged,Good,Medium Balance
+15671256,Macartney,850,France,Female,35,1,211774.31,1,Yes,No,188574.12,Exited,Adult,Excellent,High balance
+15653547,Madukwe,850,France,Male,56,7,131317.48,1,Yes,Yes,119175.45,Retained,Middle-Aged,Excellent,High balance
+15595766,Watts,527,Spain,Male,37,5,93722.73,2,Yes,Yes,139093.73,Retained,Adult,Poor,Medium Balance
+15742358,Humphreys,696,Germany,Male,32,8,101160.99,1,Yes,Yes,115916.55,Retained,Adult,Good,High balance
+15763274,Wu,661,France,Male,48,3,120320.54,1,No,No,96463.25,Retained,Middle-Aged,Fair,High balance
+15786063,Chin,776,France,Female,31,2,0,2,Yes,Yes,112349.51,Retained,Adult,Very Good,Zero Balance
+15600258,Chesnokova,701,France,Male,43,2,0,2,Yes,Yes,165303.79,Retained,Adult,Good,Zero Balance
+15573318,Kung,610,France,Male,26,8,0,2,Yes,No,166031.08,Retained,Young Adult,Fair,Zero Balance
+15653849,Lu,572,Germany,Female,48,3,152827.99,1,Yes,No,38411.79,Exited,Middle-Aged,Poor,High balance
+15694272,Nkemakolam,673,France,Male,30,1,64097.75,1,Yes,Yes,77783.35,Retained,Young Adult,Good,Medium Balance
+15736112,Walton,519,Spain,Female,57,2,119035.35,2,Yes,Yes,29871.79,Retained,Middle-Aged,Poor,High balance
+15749851,Brookes,702,Spain,Female,26,4,135219.57,1,No,Yes,59747.63,Retained,Young Adult,Good,High balance
+15663478,Baldwin,729,France,Male,32,6,93694.42,1,Yes,Yes,79919.13,Retained,Adult,Good,Medium Balance
+15592300,Mai,543,Spain,Male,35,10,59408.63,1,Yes,No,76773.53,Retained,Adult,Poor,Medium Balance
+15567832,Shih,550,France,Female,40,7,114354.95,1,Yes,No,54018.93,Retained,Adult,Poor,High balance
+15776780,He,608,France,Male,59,1,0,1,Yes,No,70649.64,Exited,Middle-Aged,Fair,Zero Balance
+15592846,Fiorentini,639,Germany,Male,35,10,128173.9,2,Yes,No,59093.39,Retained,Adult,Fair,High balance
+15739803,Lucciano,686,Spain,Male,34,9,0,2,Yes,No,127569.8,Retained,Adult,Good,Zero Balance
+15794142,Ferreira,564,Germany,Female,62,5,114931.35,3,No,Yes,18260.98,Exited,Senior,Poor,High balance
+15762729,Ukaegbunam,745,Germany,Female,28,1,111071.36,1,Yes,No,73275.96,Exited,Young Adult,Very Good,High balance
+15667896,De Luca,833,France,Male,37,8,151226.18,2,Yes,Yes,136129.49,Retained,Adult,Excellent,High balance
+15626578,Milne,622,France,Male,26,9,0,2,Yes,Yes,153237.59,Retained,Young Adult,Fair,Zero Balance
+15776223,Davide,597,France,Female,42,4,64740.12,1,Yes,Yes,106841.12,Retained,Adult,Fair,Medium Balance
+15705953,Kodilinyechukwu,721,Spain,Male,51,0,169312.13,1,Yes,No,109078.35,Exited,Middle-Aged,Good,High balance
+15802593,Little,504,France,Female,49,7,0,3,No,Yes,87822.14,Exited,Middle-Aged,Poor,Zero Balance
+15615457,Burns,842,Spain,Female,44,2,112652.08,2,Yes,No,126644.98,Retained,Adult,Excellent,High balance
+15708916,Paterson,587,France,Male,38,0,0,2,Yes,No,47414.15,Retained,Adult,Fair,Zero Balance
+15720187,Han,479,Germany,Female,30,7,143964.36,2,Yes,No,41879.99,Retained,Young Adult,Poor,High balance
+15595440,Kryukova,508,France,Male,49,7,122451.46,2,Yes,Yes,75808.1,Retained,Middle-Aged,Poor,High balance
+15600651,Ijendu,749,France,Male,24,1,0,3,Yes,Yes,47911.03,Retained,Young Adult,Very Good,Zero Balance
+15750141,Reichard,721,Germany,Female,36,3,65253.07,2,Yes,No,28737.78,Retained,Adult,Good,Medium Balance
+15657284,Day,674,Germany,Male,47,6,106901.94,1,Yes,Yes,2079.2,Exited,Middle-Aged,Good,High balance
+15763063,Price,685,Spain,Female,25,10,128509.63,1,Yes,No,121562.33,Retained,Young Adult,Good,High balance
+15709324,Bruce,417,France,Male,34,7,0,2,Yes,No,55003.79,Retained,Adult,Poor,Zero Balance
+15711309,Sumrall,574,Germany,Male,33,3,129834.67,1,Yes,No,193131.42,Retained,Adult,Poor,High balance
+15775318,Lu,590,Spain,Female,51,3,154962.99,3,No,Yes,191932.27,Exited,Middle-Aged,Fair,High balance
+15705515,Lazarev,587,Germany,Male,40,5,138241.9,2,Yes,No,159418.1,Retained,Adult,Fair,High balance
+15634844,Miller,598,Germany,Male,41,3,91536.93,1,Yes,No,191468.78,Exited,Adult,Fair,Medium Balance
+15717046,Wentworth-Shields,741,Spain,Male,53,3,0,2,Yes,Yes,38913.68,Retained,Middle-Aged,Very Good,Zero Balance
+15571816,Ritchie,850,Spain,Female,70,5,0,1,Yes,Yes,705.18,Retained,Senior,Excellent,Zero Balance
+15670080,Mackenzie,584,Germany,Female,29,7,105204.01,1,No,Yes,138490.03,Retained,Young Adult,Fair,High balance
+15800440,Power,650,Spain,Male,61,1,152968.73,1,No,Yes,82970.69,Retained,Senior,Fair,High balance
+15665678,Tan,607,Spain,Male,36,8,158261.68,1,Yes,Yes,76744.72,Retained,Adult,Fair,High balance
+15665956,Pendergrass,509,France,Female,46,1,0,1,Yes,No,71244.59,Exited,Middle-Aged,Poor,Zero Balance
+15788126,Evans,689,Spain,Female,38,6,121021.05,1,Yes,Yes,12182.15,Retained,Adult,Good,High balance
+15811773,Hsia,543,France,Male,36,4,0,2,Yes,Yes,141210.5,Retained,Adult,Poor,Zero Balance
+15651674,Billson,438,Spain,Female,54,2,0,1,No,No,191763.07,Exited,Middle-Aged,Poor,Zero Balance
+15689614,Teng,687,Spain,Female,63,1,137715.66,1,Yes,Yes,37938.74,Retained,Senior,Good,High balance
+15795564,Moretti,737,Germany,Male,31,5,121192.22,2,Yes,Yes,74890.58,Retained,Adult,Good,High balance
+15706647,Jordan,761,France,Male,31,7,0,3,Yes,Yes,166698.18,Retained,Adult,Very Good,Zero Balance
+15728505,Ts'ao,601,France,Male,44,1,100486.18,2,Yes,Yes,62678.53,Retained,Adult,Fair,High balance
+15730076,Osborne,651,France,Male,45,1,0,1,Yes,No,67740.08,Exited,Adult,Fair,Zero Balance
+15622003,Carslaw,745,France,Male,35,9,92566.53,2,Yes,No,161519.77,Retained,Adult,Very Good,Medium Balance
+15607312,Ch'ang,648,Spain,Female,49,10,0,2,Yes,Yes,159835.78,Exited,Middle-Aged,Fair,Zero Balance
+15644753,Hung,848,Spain,Male,40,3,110929.96,1,Yes,Yes,30876.84,Retained,Adult,Excellent,High balance
+15653620,Gordon,546,France,Female,27,8,0,2,Yes,Yes,14858.1,Retained,Young Adult,Poor,Zero Balance
+15761986,Obialo,439,Spain,Female,32,3,138901.61,1,Yes,No,75685.97,Retained,Adult,Poor,High balance
+15633922,Gray,755,France,Male,30,4,123217.66,2,No,Yes,144183.1,Retained,Young Adult,Very Good,High balance
+15734674,Lin,593,France,Female,41,6,0,1,Yes,No,65170.66,Retained,Adult,Fair,Zero Balance
+15658032,Hopkins,701,France,Male,39,2,0,2,Yes,Yes,82526.92,Retained,Adult,Good,Zero Balance
+15692671,Dobson,701,Spain,Male,36,8,0,2,Yes,No,169161.46,Retained,Adult,Good,Zero Balance
+15737741,McKay,607,Spain,Female,33,2,108431.87,2,No,Yes,109291.39,Exited,Adult,Fair,High balance
+15576352,Revell,586,Spain,Female,57,3,0,2,No,Yes,6057.81,Retained,Middle-Aged,Fair,Zero Balance
+15753719,Rickards,547,Germany,Female,30,9,72392.41,1,Yes,No,77077.14,Retained,Young Adult,Poor,Medium Balance
+15803689,Begum,647,Germany,Female,51,1,119741.77,2,No,No,54954.51,Exited,Middle-Aged,Fair,High balance
+15718057,Onyinyechukwuka,760,France,Female,51,2,100946.71,1,No,No,179614.8,Exited,Middle-Aged,Very Good,High balance
+15722010,Zuyev,621,Spain,Male,53,9,170491.84,1,Yes,No,35588.07,Exited,Middle-Aged,Fair,High balance
+15680998,Nwankwo,725,France,Male,44,5,0,1,Yes,Yes,117356.14,Retained,Adult,Good,Zero Balance
+15614782,Hao,526,France,Male,36,1,0,1,Yes,No,160696.72,Retained,Adult,Poor,Zero Balance
+15591047,Ma,519,Spain,Female,47,6,157296.02,2,No,No,147278.43,Exited,Middle-Aged,Poor,High balance
+15788291,Okwuadigbo,713,Germany,Female,38,7,144606.22,1,Yes,Yes,56594.36,Exited,Adult,Good,High balance
+15604044,Mitchell,700,France,Male,38,8,134811.3,1,Yes,No,1299.75,Retained,Adult,Good,High balance
+15679587,Chan,666,France,Female,34,9,115897.12,1,Yes,Yes,25095.03,Retained,Adult,Fair,High balance
+15775153,Buchi,630,Spain,Male,32,4,82034,1,No,No,146326.45,Retained,Adult,Fair,Medium Balance
+15603925,Greco,779,Spain,Female,26,4,174318.13,2,No,Yes,38296.21,Retained,Young Adult,Very Good,High balance
+15680970,Lombardi,611,Germany,Female,41,2,114206.84,1,Yes,No,164061.6,Retained,Adult,Fair,High balance
+15697183,Uchenna,685,Spain,Male,43,9,0,2,Yes,No,107811.28,Retained,Adult,Good,Zero Balance
+15567446,Coffman,646,Germany,Male,39,9,111574.41,1,Yes,Yes,30838.51,Retained,Adult,Fair,High balance
+15637476,Alexandrova,683,Germany,Female,57,5,162448.69,1,No,No,9221.78,Exited,Middle-Aged,Good,High balance
+15714939,Fallaci,484,Germany,Female,34,4,148249.54,1,No,Yes,33738.27,Retained,Adult,Poor,High balance
+15683503,Hudson,601,France,Female,43,8,0,3,No,Yes,110916.15,Exited,Adult,Fair,Zero Balance
+15645569,Mai,762,Spain,Female,26,7,123709.46,2,Yes,Yes,169654.57,Retained,Young Adult,Very Good,High balance
+15782569,Stout,687,France,Female,72,9,0,1,No,Yes,69829.4,Retained,Senior,Good,Zero Balance
+15592387,Burke,566,France,Male,30,5,0,1,Yes,No,54926.51,Exited,Young Adult,Poor,Zero Balance
+15609286,Chadwick,702,France,Male,37,10,150525.8,1,Yes,Yes,94728.49,Retained,Adult,Good,High balance
+15814035,Lawrence,601,France,Male,29,9,0,1,Yes,Yes,80393.27,Retained,Young Adult,Fair,Zero Balance
+15661249,Bellucci,699,France,Male,53,4,0,2,No,Yes,111307.98,Retained,Middle-Aged,Good,Zero Balance
+15629117,Harper,584,France,Male,28,10,0,2,Yes,No,19834.32,Retained,Young Adult,Fair,Zero Balance
+15607170,Boyle,699,France,Male,35,5,0,2,Yes,Yes,78397.24,Retained,Adult,Good,Zero Balance
+15586585,Duncan,698,Germany,Female,51,2,111018.98,1,Yes,No,86410.28,Retained,Middle-Aged,Good,High balance
+15686611,Moss,495,France,Male,30,10,129755.99,1,No,No,172749.65,Retained,Young Adult,Poor,High balance
+15603203,Avdeyeva,650,France,Female,27,6,0,2,Yes,No,1002.39,Retained,Young Adult,Fair,Zero Balance
+15619857,Crawford,605,France,Female,64,2,129555.7,1,Yes,Yes,13601.79,Retained,Senior,Fair,High balance
+15805062,Lynton,667,Spain,Male,38,1,87202.38,1,Yes,Yes,77866.91,Retained,Adult,Fair,Medium Balance
+15660271,Duncan,688,Germany,Male,26,8,146133.39,1,Yes,Yes,175296.76,Retained,Young Adult,Good,High balance
+15745295,Gether,727,Spain,Female,31,0,0,1,Yes,No,121751.04,Exited,Adult,Good,Zero Balance
+15719352,Davidson,754,Spain,Male,39,6,170184.99,2,Yes,No,89593.26,Retained,Adult,Very Good,High balance
+15766575,Larionova,612,Germany,Female,62,8,140745.33,1,Yes,No,193437.89,Exited,Senior,Fair,High balance
+15594594,Loggia,546,Spain,Male,42,7,139070.51,1,Yes,Yes,86945,Retained,Adult,Poor,High balance
+15646161,Steinhoff,673,Spain,Female,37,8,0,2,Yes,Yes,183318.79,Retained,Adult,Good,Zero Balance
+15682585,Guerra,593,France,Male,35,9,114193.24,1,Yes,No,71154.1,Retained,Adult,Fair,High balance
+15603134,Pai,656,Spain,Female,40,10,167878.5,1,No,Yes,151887.16,Retained,Adult,Fair,High balance
+15636444,Craig,535,Germany,Female,53,5,141616.55,2,Yes,Yes,75888.65,Retained,Middle-Aged,Poor,High balance
+15773456,Lazareva,678,Germany,Male,36,3,145747.67,2,No,Yes,89566.74,Retained,Adult,Good,High balance
+15745307,Ch'iu,477,Spain,Female,48,2,129120.64,1,No,Yes,26475.79,Retained,Middle-Aged,Poor,High balance
+15604119,Alderete,850,Spain,Male,35,7,110349.82,1,No,No,126355.8,Retained,Adult,Excellent,High balance
+15626900,Kung,427,France,Male,29,1,141325.56,1,Yes,Yes,93839.3,Retained,Young Adult,Poor,High balance
+15605447,Palermo,752,France,Male,49,2,78653.84,1,Yes,No,7698.6,Retained,Middle-Aged,Very Good,Medium Balance
+15589030,Ts'ai,649,France,Male,47,1,0,2,Yes,Yes,145593.85,Retained,Middle-Aged,Fair,Zero Balance
+15692463,Rahman,799,Spain,Female,28,3,142253.65,1,Yes,No,45042.56,Retained,Young Adult,Very Good,High balance
+15712403,McMillan,589,France,Female,61,1,0,1,Yes,No,61108.56,Exited,Senior,Fair,Zero Balance
+15811762,Pickering,583,Germany,Female,54,6,115988.86,1,Yes,No,57553.98,Exited,Middle-Aged,Fair,High balance
+15718673,Mirams,839,Spain,Female,33,10,75592.43,1,Yes,No,62674.42,Retained,Adult,Excellent,Medium Balance
+15724282,Tsao,540,Germany,Male,44,3,164113.04,2,Yes,Yes,12120.79,Retained,Adult,Poor,High balance
+15738181,Douglas,850,France,Male,31,6,67996.23,2,No,No,50129.87,Exited,Adult,Excellent,Medium Balance
+15633648,Jideofor,696,Spain,Female,51,5,0,2,Yes,No,55022.43,Retained,Middle-Aged,Good,Zero Balance
+15603323,Bell,660,Spain,Female,33,1,0,2,No,No,117834.91,Retained,Adult,Fair,Zero Balance
+15583725,Mairinger,682,France,Male,48,1,138778.15,1,No,Yes,168840.23,Retained,Middle-Aged,Good,High balance
+15588350,McIntyre,744,France,Female,43,10,147832.15,1,No,Yes,24234.11,Retained,Adult,Very Good,High balance
+15798398,Pagnotto,785,France,Female,36,4,135438.4,1,No,No,190627.01,Retained,Adult,Very Good,High balance
+15784844,K'ung,752,Spain,Male,48,5,116060.08,1,Yes,No,156618.38,Exited,Middle-Aged,Very Good,High balance
+15580684,Feng,706,France,Female,29,5,112564.62,1,Yes,No,42334.38,Retained,Young Adult,Good,High balance
+15809663,Donaldson,583,France,Female,27,1,125406.58,1,Yes,Yes,110784.42,Retained,Young Adult,Fair,High balance
+15640078,Chambers,660,Germany,Female,39,5,135134.99,1,Yes,No,173683,Exited,Adult,Fair,High balance
+15698786,Marcelo,819,France,Female,39,9,133102.92,1,Yes,No,27046.46,Exited,Adult,Excellent,High balance
+15569807,Ejimofor,673,France,Female,34,8,42157.08,1,Yes,No,20598.59,Exited,Adult,Good,Low Balance
+15730830,Dale,752,France,Female,30,3,0,2,Yes,Yes,104991.28,Retained,Young Adult,Very Good,Zero Balance
+15805112,Pokrovsky,578,France,Male,38,7,82259.29,1,Yes,No,8996.97,Retained,Adult,Poor,Medium Balance
+15633064,Stonebraker,438,France,Female,36,4,0,2,Yes,No,64420.5,Retained,Adult,Poor,Zero Balance
+15703119,Liang,652,France,Male,38,6,0,2,Yes,Yes,145700.22,Retained,Adult,Fair,Zero Balance
+15730447,Anderson,629,France,Female,49,4,0,2,Yes,Yes,196335.48,Retained,Middle-Aged,Fair,Zero Balance
+15813850,Christian,720,France,Male,52,7,0,1,Yes,Yes,14781.12,Retained,Middle-Aged,Good,Zero Balance
+15711889,Mao,668,France,Male,42,3,150461.07,1,Yes,No,108139.23,Retained,Adult,Fair,High balance
+15664610,Campbell,459,Germany,Male,48,4,133994.52,1,Yes,Yes,19287.06,Exited,Middle-Aged,Poor,High balance
+15751710,Ginikanwa,729,Spain,Male,31,8,164870.81,2,Yes,Yes,9567.39,Retained,Adult,Good,High balance
+15692926,Toscani,498,Germany,Male,25,8,121702.73,1,Yes,Yes,132210.49,Retained,Young Adult,Poor,High balance
+15813741,Nnachetam,549,Spain,Male,25,6,193858.2,1,No,Yes,21600.11,Retained,Young Adult,Poor,High balance
+15698474,Sagese,601,Germany,Female,54,1,131039.97,2,Yes,Yes,199661.5,Retained,Middle-Aged,Fair,High balance
+15568595,Fleming,544,France,Male,64,9,113829.45,1,Yes,Yes,124341.49,Retained,Senior,Poor,High balance
+15603065,Grubb,751,France,Female,30,6,0,2,Yes,No,15766.1,Retained,Young Adult,Very Good,Zero Balance
+15592937,Napolitani,632,Germany,Female,41,3,81877.38,1,Yes,Yes,33642.21,Retained,Adult,Fair,Medium Balance
+15699637,Anenechi,694,Spain,Male,57,8,116326.07,1,Yes,Yes,117704.65,Retained,Middle-Aged,Good,High balance
+15667215,Chandler,678,France,Male,31,2,0,2,Yes,Yes,58803.28,Retained,Adult,Good,Zero Balance
+15788659,Howells,695,France,Male,46,4,0,2,Yes,Yes,137537.22,Retained,Middle-Aged,Good,Zero Balance
+15763218,Akeroyd,661,France,Female,41,1,0,2,No,Yes,131300.68,Retained,Adult,Fair,Zero Balance
+15645772,Onwumelu,661,France,Male,33,9,0,2,Yes,Yes,84174.81,Retained,Adult,Fair,Zero Balance
+15725511,Wallace,559,France,Female,31,3,127070.73,1,No,Yes,160941.78,Retained,Adult,Poor,High balance
+15575024,Uwaezuoke,503,France,Male,29,3,0,2,Yes,Yes,143954.99,Retained,Young Adult,Poor,Zero Balance
+15640825,Loyau,695,Spain,Male,46,3,122549.64,1,Yes,Yes,56297.85,Retained,Middle-Aged,Good,High balance
+15662397,Small,640,France,Female,42,5,176099.13,1,Yes,Yes,8404.73,Retained,Adult,Fair,High balance
+15576368,Bledsoe,624,Germany,Female,48,3,122388.38,2,No,No,30020.09,Retained,Middle-Aged,Fair,High balance
+15674991,Kao,667,France,Male,42,9,0,2,No,Yes,58137.42,Retained,Adult,Fair,Zero Balance
+15721024,Wickens,642,France,Male,26,0,0,1,No,No,47472.68,Retained,Young Adult,Fair,Zero Balance
+15745621,Wertheim,640,Spain,Female,32,6,118879.35,2,Yes,Yes,19131.71,Retained,Adult,Fair,High balance
+15642394,He,529,Spain,Male,35,5,0,2,Yes,Yes,187288.5,Retained,Adult,Poor,Zero Balance
+15754605,Jarvis,563,France,Female,39,5,0,2,Yes,Yes,17603.81,Retained,Adult,Poor,Zero Balance
+15607040,P'an,593,Spain,Female,38,4,88736.44,2,Yes,No,67020.03,Retained,Adult,Fair,Medium Balance
+15715142,Repina,739,Germany,Male,45,7,102703.62,1,No,Yes,147802.94,Exited,Adult,Good,High balance
+15810978,Pugliesi,788,Spain,Female,70,1,0,2,Yes,Yes,41610.62,Retained,Senior,Very Good,Zero Balance
+15668886,Blakey,684,Spain,Female,38,3,0,2,Yes,No,44255.65,Retained,Adult,Good,Zero Balance
+15780804,Nucci,482,France,Male,55,5,97318.25,1,No,Yes,78416.14,Retained,Middle-Aged,Poor,Medium Balance
+15613880,Higinbotham,591,Spain,Male,58,5,128468.69,1,No,Yes,137254.55,Retained,Middle-Aged,Fair,High balance
+15775238,Achebe,651,Germany,Female,41,4,133432.59,1,No,Yes,151303.48,Retained,Adult,Fair,High balance
+15786905,Russo,749,Germany,Female,40,8,141782.57,2,No,No,86333.63,Retained,Adult,Very Good,High balance
+15747867,Trevisani,583,France,Male,24,9,135125.28,1,No,No,89801.9,Retained,Young Adult,Fair,High balance
+15600337,Dobie,661,Spain,Male,42,2,178820.91,1,No,No,29358.57,Exited,Adult,Fair,High balance
+15801277,Maccallum,715,France,Female,31,2,112212.14,2,Yes,Yes,181600.72,Retained,Adult,Good,High balance
+15579334,Watkins,769,Germany,Female,45,5,126674.81,1,Yes,No,124118.71,Exited,Adult,Very Good,High balance
+15802741,Mitchel,625,France,Female,51,7,136294.97,1,Yes,No,38867.46,Exited,Middle-Aged,Fair,High balance
+15720649,Ferdinand,641,France,Female,36,5,66392.64,1,Yes,No,31106.67,Retained,Adult,Fair,Medium Balance
+15589493,Otitodilinna,716,Germany,Male,27,1,122552.34,2,Yes,No,67611.36,Retained,Young Adult,Good,High balance
+15688251,Mamelu,767,France,Male,43,1,76408.85,2,Yes,No,77837.63,Retained,Adult,Very Good,Medium Balance
+15665238,Beneventi,745,Germany,Male,36,8,145071.24,1,No,No,6078.46,Retained,Adult,Very Good,High balance
+15740900,Perrodin,589,France,Male,34,6,0,2,Yes,Yes,177896.92,Retained,Adult,Fair,Zero Balance
+15681068,Chinagorom,796,France,Female,45,2,109730.22,1,Yes,Yes,123882.73,Retained,Adult,Very Good,High balance
+15748625,Napolitano,664,France,Male,57,6,0,2,Yes,Yes,15304.08,Retained,Middle-Aged,Fair,Zero Balance
+15727299,Edgar,445,Spain,Male,62,1,64119.38,1,Yes,Yes,76569.64,Exited,Senior,Poor,Medium Balance
+15620204,Walker,543,Germany,Female,57,1,106138.33,2,Yes,Yes,120657.32,Exited,Middle-Aged,Poor,High balance
+15669516,Steele,746,Spain,Male,36,2,0,2,Yes,Yes,16436.56,Retained,Adult,Very Good,Zero Balance
+15736534,Elkins,742,Germany,Male,33,0,181656.51,1,Yes,Yes,107667.91,Retained,Adult,Very Good,High balance
+15803457,Hao,750,France,Female,32,5,0,2,Yes,No,95611.47,Retained,Adult,Very Good,Zero Balance
+15659098,Toscano,669,France,Male,30,7,95128.86,1,No,No,19799.26,Retained,Young Adult,Fair,Medium Balance
+15603436,Savage,594,Spain,Female,49,2,126615.94,2,No,Yes,123214.74,Retained,Middle-Aged,Fair,High balance
+15566292,Okwuadigbo,574,Spain,Male,36,1,0,2,No,Yes,71709.12,Retained,Adult,Poor,Zero Balance
+15808621,Mordvinova,659,Germany,Male,36,2,76190.48,2,Yes,Yes,149066.14,Retained,Adult,Fair,Medium Balance
+15580148,Welch,750,Germany,Male,40,5,168286.81,3,Yes,No,20451.99,Exited,Adult,Very Good,High balance
+15776231,Kent,626,Germany,Male,35,4,88109.81,1,Yes,Yes,32825.5,Retained,Adult,Fair,Medium Balance
+15773809,Campbell,620,France,Male,42,4,0,2,Yes,No,6232.31,Retained,Adult,Fair,Zero Balance
+15649423,Cooper,580,France,Female,35,8,0,2,No,Yes,10357.03,Retained,Adult,Fair,Zero Balance
+15734886,Mazzi,686,France,Female,34,3,123971.51,2,Yes,No,147794.63,Retained,Adult,Good,High balance
+15722548,Fisher,540,France,Male,48,0,148116.48,1,No,No,116973.48,Retained,Middle-Aged,Poor,High balance
+15650288,Summers,634,Germany,Male,35,6,116269.01,1,Yes,No,129964.94,Retained,Adult,Fair,High balance
+15629448,Brady,632,Spain,Male,38,1,120599.21,1,Yes,No,92816.86,Retained,Adult,Fair,High balance
+15716164,Nicholls,501,France,Female,41,3,144260.5,1,Yes,No,172114.67,Retained,Adult,Poor,High balance
+15807609,Yuan,650,Spain,Female,25,3,86605.5,3,Yes,No,16649.31,Exited,Young Adult,Fair,Medium Balance
+15578977,Robinson,786,France,Male,34,9,0,2,Yes,No,144517.19,Retained,Adult,Very Good,Zero Balance
+15677369,Golubov,554,Germany,Female,37,4,58629.97,1,No,No,182038.6,Retained,Adult,Poor,Medium Balance
+15804072,Chen,701,Spain,Female,42,5,0,2,No,No,24210.56,Retained,Adult,Good,Zero Balance
+15696859,Oldham,474,France,Male,45,10,0,2,No,No,172175.9,Retained,Adult,Poor,Zero Balance
+15653780,Kambinachi,621,France,Female,43,5,0,1,Yes,Yes,47578.45,Retained,Adult,Fair,Zero Balance
+15721658,Fleming,672,Spain,Female,56,2,209767.31,2,Yes,Yes,150694.42,Exited,Middle-Aged,Good,High balance
+15578761,Cunningham,459,Spain,Female,42,6,129634.25,2,Yes,Yes,177683.02,Exited,Adult,Poor,High balance
+15736879,Obinna,669,France,Male,23,1,0,2,No,No,66088.83,Retained,Young Adult,Fair,Zero Balance
+15571973,Chinwemma,776,France,Female,38,2,169824.46,1,Yes,No,169291.7,Retained,Adult,Very Good,High balance
+15626742,Carpenter,694,France,Male,36,3,97530.25,1,Yes,Yes,117140.41,Retained,Adult,Good,Medium Balance
+15672692,Yin,787,France,Female,42,10,145988.65,2,Yes,Yes,79510.37,Retained,Adult,Very Good,High balance
+15673570,Olsen,580,France,Male,37,9,0,2,No,Yes,77108.66,Retained,Adult,Fair,Zero Balance
+15767432,Ts'ai,711,France,Female,25,7,0,3,Yes,Yes,9679.28,Retained,Young Adult,Good,Zero Balance
+15654238,Jen,673,France,Female,40,5,137494.28,1,Yes,No,81753.92,Retained,Adult,Good,High balance
+15612525,Preston,499,France,Female,57,1,0,1,No,No,131372.38,Exited,Middle-Aged,Poor,Zero Balance
+15812750,Ozioma,591,France,Male,24,6,147360,1,Yes,Yes,25310.82,Retained,Young Adult,Fair,High balance
+15790757,Cody,769,France,Female,25,10,0,2,No,No,187925.75,Retained,Young Adult,Very Good,Zero Balance
+15723873,Ponomarev,657,Spain,Male,31,3,125167.02,1,No,No,98820.39,Retained,Adult,Fair,High balance
+15744607,Martin,738,Germany,Male,43,9,121152.05,2,Yes,No,64166.7,Exited,Adult,Good,High balance
+15612966,Milani,545,Germany,Female,60,7,128981.07,1,No,Yes,176924.21,Exited,Middle-Aged,Poor,High balance
+15784209,Tang,497,France,Male,47,6,0,1,Yes,Yes,90055.08,Retained,Middle-Aged,Poor,Zero Balance
+15794278,Romani,816,Spain,Male,67,6,151858.98,1,Yes,Yes,72814.31,Retained,Senior,Excellent,High balance
+15766741,McIntyre,525,France,Male,36,2,114628.4,1,No,Yes,168290.06,Retained,Adult,Poor,High balance
+15661036,Davis,725,France,Male,46,6,0,2,Yes,No,161767.38,Retained,Middle-Aged,Good,Zero Balance
+15705639,Onyemauchechukwu,692,France,Female,28,8,95059.02,2,Yes,No,44420.18,Retained,Young Adult,Good,Medium Balance
+15637414,Gell,618,France,Female,24,7,128736.39,1,No,Yes,37147.61,Retained,Young Adult,Fair,High balance
+15716835,Rossi,546,France,Male,24,8,156325.38,1,Yes,Yes,125381.02,Retained,Young Adult,Poor,High balance
+15696231,Chiwetelu,635,France,Male,29,7,105405.97,1,Yes,Yes,149853.89,Retained,Young Adult,Fair,High balance
+15641675,Kirillova,611,France,Female,49,2,88915.37,3,No,No,161435.02,Exited,Middle-Aged,Fair,Medium Balance
+15670755,Shaw,650,France,Male,60,8,0,2,Yes,Yes,102925.76,Retained,Middle-Aged,Fair,Zero Balance
+15640059,Smith,606,France,Male,40,5,0,2,Yes,Yes,70899.27,Retained,Adult,Fair,Zero Balance
+15787619,Hsieh,844,France,Male,18,2,160980.03,1,No,No,145936.28,Retained,Young Adult,Excellent,High balance
+15587535,Onyemauchechukwu,450,Spain,Female,46,5,177619.71,1,Yes,No,54227.06,Retained,Middle-Aged,Poor,High balance
+15813034,Martin,727,Spain,Male,38,2,62276.99,1,Yes,Yes,59280.79,Retained,Adult,Good,Medium Balance
+15698839,Okwudilichukwu,460,Germany,Male,46,4,127559.97,2,Yes,Yes,126952.5,Retained,Middle-Aged,Poor,High balance
+15790314,Onuoha,649,France,Male,41,0,0,2,No,Yes,130567.02,Retained,Adult,Fair,Zero Balance
+15634245,Muecke,758,Germany,Female,47,9,95523.16,1,Yes,No,73294.48,Retained,Middle-Aged,Very Good,Medium Balance
+15677305,Hsieh,490,France,Female,35,7,107749.03,1,Yes,Yes,3937.37,Retained,Adult,Poor,High balance
+15661526,Anderson,815,Germany,Male,37,2,110777.26,2,Yes,No,2383.59,Retained,Adult,Excellent,High balance
+15685997,Azubuike,838,Spain,Female,39,5,166733.92,2,Yes,No,14279.44,Retained,Adult,Excellent,High balance
+15660101,Nnonso,803,France,Male,31,9,157120.86,2,Yes,No,141300.53,Retained,Adult,Excellent,High balance
+15637979,Fuller,664,Germany,Female,36,2,127160.78,2,Yes,No,78140.75,Retained,Adult,Fair,High balance
+15815364,Ashley,736,Spain,Female,28,2,0,2,Yes,Yes,117431.1,Retained,Young Adult,Good,Zero Balance
+15647099,Ts'ui,633,France,Female,37,9,156091.97,1,Yes,No,72008.61,Retained,Adult,Fair,High balance
+15625944,Buccho,664,France,Male,58,5,98668.18,1,Yes,Yes,60887.58,Retained,Middle-Aged,Fair,Medium Balance
+15583212,Chidozie,600,France,Female,43,5,134022.06,1,Yes,No,194764.83,Retained,Adult,Fair,High balance
+15582741,Maclean,693,France,Female,35,5,124151.09,1,Yes,No,88705.14,Exited,Adult,Good,High balance
+15637876,Burns,663,Germany,Female,36,6,77253.5,1,No,No,35817.97,Exited,Adult,Fair,Medium Balance
+15622750,Chu,742,Germany,Female,21,1,114292.48,1,Yes,No,31520.4,Retained,Young Adult,Very Good,High balance
+15672056,Kenenna,710,Germany,Male,43,2,140080.32,3,Yes,Yes,157908.19,Exited,Adult,Good,High balance
+15812351,Beluchi,710,Spain,Female,27,2,135277.96,1,Yes,No,142200.15,Retained,Young Adult,Good,High balance
+15810864,Williamson,700,France,Female,82,2,0,2,No,Yes,182055.36,Retained,Senior,Good,Zero Balance
+15677921,Bobrov,720,Germany,Male,60,9,115920.62,2,No,No,157552.08,Exited,Middle-Aged,Good,High balance
+15724296,Kerr,684,Spain,Male,41,2,119782.72,2,No,No,120284.67,Retained,Adult,Good,High balance
+15685329,McKenzie,531,France,Female,63,1,114715.71,1,No,Yes,24506.95,Exited,Senior,Poor,High balance
+15584091,Pitts,742,Germany,Female,36,2,129748.54,2,No,No,47271.61,Exited,Adult,Very Good,High balance
+15640442,Standish,717,France,Male,31,4,129722.57,1,No,No,41176.6,Retained,Adult,Good,High balance
+15639314,Cartwright,589,France,Male,32,2,0,2,No,Yes,9468.64,Retained,Adult,Fair,Zero Balance
+15685320,Johnstone,767,France,Male,36,3,139180.2,1,No,No,123880.19,Retained,Adult,Very Good,High balance
+15789158,Nikitina,636,Germany,Male,49,6,113599.74,2,Yes,No,158887.09,Exited,Middle-Aged,Fair,High balance
+15752137,McElroy,648,France,Male,33,7,134944,1,Yes,Yes,117036.38,Retained,Adult,Fair,High balance
+15712551,Shen,622,Germany,Female,58,7,116922.25,1,Yes,No,120415.61,Exited,Middle-Aged,Fair,High balance
+15628936,Archer,692,Spain,Male,28,9,118945.09,1,No,No,16064.25,Exited,Young Adult,Good,High balance
+15797227,Otutodilinna,754,France,Male,28,8,0,2,Yes,Yes,52615.62,Retained,Young Adult,Very Good,Zero Balance
+15769974,Shih,679,Spain,Female,35,8,119182.73,1,No,No,121210.09,Retained,Adult,Good,High balance
+15737051,Denisov,639,France,Male,27,8,0,2,Yes,No,192247.35,Retained,Young Adult,Fair,Zero Balance
+15585595,Owens,774,France,Female,28,1,71264.02,2,No,Yes,68759.57,Retained,Young Adult,Very Good,Medium Balance
+15654060,P'eng,517,France,Male,41,2,0,2,No,Yes,75937.47,Retained,Adult,Poor,Zero Balance
+15745196,Verco,571,France,Female,35,8,0,2,No,No,84569.13,Retained,Adult,Poor,Zero Balance
+15571221,Bergamaschi,747,Germany,Male,58,7,116313.57,1,Yes,Yes,190696.35,Exited,Middle-Aged,Very Good,High balance
+15660155,Lorenzo,792,Spain,Male,36,5,92140.15,1,No,Yes,67468.67,Retained,Adult,Very Good,Medium Balance
+15605284,Outtrim,688,France,Male,26,1,0,2,Yes,Yes,104435.94,Retained,Young Adult,Good,Zero Balance
+15694366,Hou,714,Germany,Male,42,2,177640.09,1,No,Yes,47166.55,Retained,Adult,Good,High balance
+15600739,Galkin,562,Spain,Female,35,0,0,2,Yes,No,119899.52,Retained,Adult,Poor,Zero Balance
+15653253,Pagnotto,704,Spain,Male,48,8,167997.6,1,Yes,Yes,173498.45,Retained,Middle-Aged,Good,High balance
+15763431,Echezonachukwu,698,France,Male,36,2,82275.35,2,Yes,Yes,93249.26,Retained,Adult,Good,Medium Balance
+15643696,Young,611,France,Male,49,3,0,2,Yes,Yes,142917.54,Retained,Middle-Aged,Fair,Zero Balance
+15707473,Summers,850,Germany,Female,48,6,111962.99,1,Yes,No,111755.8,Retained,Middle-Aged,Excellent,High balance
+15769504,Munro,743,Germany,Female,34,1,131736.88,1,Yes,Yes,108543.21,Retained,Adult,Very Good,High balance
+15776807,Brennan,654,France,Male,29,1,0,1,Yes,No,180345.44,Retained,Young Adult,Fair,Zero Balance
+15686870,Ball,761,Germany,Male,36,8,108239.11,2,No,No,99444.02,Retained,Adult,Very Good,High balance
+15668747,Virgo,702,France,Female,46,9,98444.19,1,No,Yes,109563.28,Retained,Middle-Aged,Good,Medium Balance
+15766908,Trevisani,488,Germany,Male,32,3,114540.38,1,Yes,No,92568.07,Retained,Adult,Poor,High balance
+15570134,Padovano,683,France,Female,35,6,187530.66,2,Yes,Yes,37976.36,Retained,Adult,Good,High balance
+15567367,Tao,601,Germany,Female,42,9,133636.16,1,No,Yes,103315.74,Retained,Adult,Fair,High balance
+15747542,Perez,605,France,Male,52,7,0,2,Yes,Yes,173952.5,Retained,Middle-Aged,Fair,Zero Balance
+15762238,Fraser,671,Germany,Female,44,0,84745.03,2,No,Yes,34673.98,Retained,Adult,Good,Medium Balance
+15681554,Alley,614,Germany,Female,31,7,120599.38,2,Yes,Yes,46163.44,Retained,Adult,Fair,High balance
+15712825,Howells,511,Spain,Female,29,9,0,2,No,Yes,140676.98,Retained,Young Adult,Poor,Zero Balance
+15640280,Cameron,850,France,Male,39,4,127771.35,2,No,Yes,151738.54,Retained,Adult,Excellent,High balance
+15756026,Hooper,790,Spain,Female,46,9,0,1,No,No,14679.81,Exited,Middle-Aged,Very Good,Zero Balance
+15613319,Rice,793,France,Female,33,0,0,1,No,No,175544.02,Retained,Adult,Very Good,Zero Balance
+15798906,Cox,628,France,Male,69,5,0,2,Yes,Yes,181964.6,Retained,Senior,Fair,Zero Balance
+15708917,Martin,598,Germany,Male,53,10,167772.96,1,Yes,Yes,136886.86,Retained,Middle-Aged,Fair,High balance
+15778463,Ikenna,657,France,Female,37,6,95845.6,1,Yes,No,122218.23,Retained,Adult,Fair,Medium Balance
+15699430,Davide,618,France,Female,35,10,0,2,Yes,No,180439.75,Retained,Adult,Fair,Zero Balance
+15649992,Alexander,681,Spain,Male,65,7,134714.7,2,No,Yes,190419.81,Retained,Senior,Good,High balance
+15578980,Piazza,516,Spain,Female,33,3,0,2,Yes,Yes,58685.59,Retained,Adult,Poor,Zero Balance
+15775306,Ni,421,Germany,Male,28,8,122384.22,3,Yes,Yes,89017.38,Exited,Young Adult,Poor,High balance
+15641655,Black,700,France,Female,26,2,0,2,No,No,50051.42,Retained,Young Adult,Good,Zero Balance
+15619708,Harker,745,France,Male,25,5,157993.15,2,Yes,No,146041.45,Retained,Young Adult,Very Good,High balance
+15734565,Hughes,696,France,Male,29,8,0,2,Yes,No,191166.09,Retained,Young Adult,Good,Zero Balance
+15806438,Chiabuotu,580,Germany,Female,42,2,123331.36,1,No,No,103516.08,Exited,Adult,Fair,High balance
+15591969,Kuo,497,Spain,Male,27,9,75263.16,1,Yes,Yes,164825.04,Retained,Young Adult,Poor,Medium Balance
+15747807,Gallagher,720,France,Female,43,6,137824.03,2,Yes,No,172557.77,Retained,Adult,Good,High balance
+15596939,Calabresi,659,Germany,Male,36,4,132578.92,2,Yes,No,84320.94,Retained,Adult,Fair,High balance
+15716155,Shaw,841,France,Female,36,5,156021.31,1,No,No,122662.98,Retained,Adult,Excellent,High balance
+15765311,Zhirov,642,Spain,Male,34,8,0,1,Yes,No,72085.1,Retained,Adult,Fair,Zero Balance
+15757811,Lloyd,732,Spain,Female,69,9,137453.43,1,No,Yes,110932.24,Exited,Senior,Good,High balance
+15603830,Palmer,600,Spain,Male,36,4,0,2,Yes,No,143635.36,Retained,Adult,Fair,Zero Balance
+15660602,Ch'eng,464,Germany,Male,33,8,164284.72,2,Yes,Yes,3710.34,Retained,Adult,Poor,High balance
+15660535,Avent,680,France,Female,47,5,0,2,Yes,Yes,179843.33,Retained,Middle-Aged,Good,Zero Balance
+15666633,Huang,758,Spain,Male,56,1,0,2,Yes,Yes,10643.38,Retained,Middle-Aged,Very Good,Zero Balance
+15596914,Shaw,630,Germany,Female,31,2,112373.49,2,Yes,Yes,131167.98,Retained,Adult,Fair,High balance
+15639788,Yuan,577,France,Female,39,10,0,2,Yes,No,10553.31,Retained,Adult,Poor,Zero Balance
+15695846,Hawkins,684,France,Female,34,6,0,2,Yes,Yes,130928.22,Retained,Adult,Good,Zero Balance
+15726234,Trentini,708,Spain,Female,41,5,0,1,No,Yes,157003.99,Retained,Adult,Good,Zero Balance
+15797964,Cameron,732,Germany,Female,29,1,154333.82,1,Yes,Yes,138527.56,Retained,Young Adult,Good,High balance
+15625881,Koehler,634,Germany,Male,37,3,111432.77,2,Yes,Yes,167032.49,Retained,Adult,Fair,High balance
+15780628,Wu,633,France,Female,30,6,0,2,No,No,41642.29,Retained,Young Adult,Fair,Zero Balance
+15575883,Manna,559,France,Male,34,2,137390.11,2,Yes,No,9677,Retained,Adult,Poor,High balance
+15585036,Okoli,694,Spain,Female,37,3,0,2,Yes,Yes,147012.22,Retained,Adult,Good,Zero Balance
+15589488,Ch'eng,686,Germany,Female,56,5,111642.08,1,Yes,Yes,80553.87,Retained,Middle-Aged,Good,High balance
+15585888,Nwokezuike,553,Spain,Female,48,3,0,1,No,Yes,30730.95,Exited,Middle-Aged,Poor,Zero Balance
+15727915,Artemiev,507,France,Male,36,4,83543.37,1,No,No,140134.43,Retained,Adult,Poor,Medium Balance
+15707567,Esposito,732,Germany,Male,50,6,145338.76,1,No,No,91936.1,Exited,Middle-Aged,Good,High balance
+15737792,Abbie,818,France,Female,31,1,186796.37,1,No,No,178252.63,Retained,Adult,Excellent,High balance
+15599433,Fanucci,660,Germany,Male,35,8,58641.43,1,No,Yes,198674.08,Retained,Adult,Fair,Medium Balance
+15672012,Jen,773,Spain,Female,41,5,0,1,Yes,No,28266.9,Exited,Adult,Very Good,Zero Balance
+15806983,Moss,640,France,Male,44,3,137148.68,1,Yes,No,92381.01,Retained,Adult,Fair,High balance
+15592222,Lo,505,France,Male,49,7,80001.23,1,No,No,135180.11,Retained,Middle-Aged,Poor,Medium Balance
+15608968,Averyanov,714,Germany,Male,21,6,86402.52,2,No,No,27330.59,Retained,Young Adult,Good,Medium Balance
+15586959,Unaipon,468,France,Female,42,5,0,2,Yes,No,125305.34,Retained,Adult,Poor,Zero Balance
+15646558,Clamp,611,Spain,Male,51,1,122874.74,1,Yes,Yes,149648.45,Retained,Middle-Aged,Fair,High balance
+15725811,Lim,705,France,Male,25,0,97544.29,1,No,Yes,59887.15,Retained,Young Adult,Good,Medium Balance
+15572265,Wu,646,Germany,Male,46,1,170826.55,2,Yes,No,45041.32,Retained,Middle-Aged,Fair,High balance
+15794048,Wan,667,Germany,Female,48,1,97133.92,2,No,No,113316.77,Exited,Middle-Aged,Fair,Medium Balance
+15677610,Chambers,511,Germany,Female,41,8,153895.65,1,Yes,Yes,39087.42,Retained,Adult,Poor,High balance
+15745012,Pettit,653,France,Female,43,6,0,2,Yes,Yes,7330.59,Retained,Adult,Fair,Zero Balance
+15601589,Baresi,675,France,Female,57,8,0,2,No,Yes,95463.29,Retained,Middle-Aged,Good,Zero Balance
+15686436,Newbery,523,Spain,Male,32,4,0,2,Yes,No,167848.02,Retained,Adult,Poor,Zero Balance
+15693864,Iheanacho,567,Germany,Female,49,5,134956.02,1,Yes,No,93953.84,Exited,Middle-Aged,Poor,High balance
+15760550,Duncan,741,Spain,Male,39,7,143637.58,2,No,Yes,174227.66,Retained,Adult,Very Good,High balance
+15686137,Barry,456,Spain,Male,32,9,147506.25,1,Yes,Yes,135399.21,Retained,Adult,Poor,High balance
+15809087,Landry,598,France,Male,64,1,0,2,Yes,No,195635.3,Exited,Senior,Fair,Zero Balance
+15807663,McGregor,667,France,Male,43,8,190227.46,1,Yes,No,97508.04,Exited,Adult,Fair,High balance
+15809100,Nucci,548,France,Female,32,2,172448.77,1,Yes,No,188083.77,Exited,Adult,Poor,High balance
+15794916,Pirogov,725,France,Male,41,7,113980.21,1,Yes,Yes,116704.25,Retained,Adult,Good,High balance
+15614215,Oguejiofor,717,France,Male,53,6,0,2,No,Yes,97614.87,Retained,Middle-Aged,Good,Zero Balance
+15805449,Ugochukwu,594,France,Male,38,4,0,2,No,No,186884.04,Retained,Adult,Fair,Zero Balance
+15686983,Rohu,678,Germany,Female,25,10,76968.12,2,No,Yes,131501.72,Retained,Young Adult,Good,Medium Balance
+15808017,Cary,545,France,Male,38,1,88293.13,2,Yes,Yes,24302.95,Retained,Adult,Poor,Medium Balance
+15756804,O'Loghlen,636,France,Female,48,1,170833.46,1,Yes,No,110510.28,Exited,Middle-Aged,Fair,High balance
+15646810,Quinn,603,Germany,Male,44,6,108122.39,2,Yes,No,108488.33,Exited,Adult,Fair,High balance
+15710424,Page,435,France,Male,36,4,0,1,Yes,Yes,197015.2,Retained,Adult,Poor,Zero Balance
+15799422,Evans,535,France,Female,40,8,0,1,Yes,Yes,27689.77,Retained,Adult,Poor,Zero Balance
+15692750,McGregor,629,Germany,Female,45,7,129818.39,3,Yes,No,9217.55,Exited,Adult,Fair,High balance
+15794549,Andrews,722,France,Female,35,2,163943.89,2,Yes,Yes,15068.18,Retained,Adult,Good,High balance
+15803764,Stanley,561,France,Male,28,7,0,2,Yes,No,7797.01,Retained,Young Adult,Poor,Zero Balance
+15674840,Chiazagomekpere,645,France,Female,38,5,101430.3,2,No,Yes,4400.32,Retained,Adult,Fair,High balance
+15653762,Chidiebele,501,France,Female,39,9,117301.66,1,No,No,182025.95,Retained,Adult,Poor,High balance
+15581229,Gregory,502,Germany,Female,32,1,173340.83,1,No,Yes,122763.95,Retained,Adult,Poor,High balance
+15800228,Bednall,652,Spain,Female,42,4,0,2,Yes,Yes,38152.01,Retained,Adult,Fair,Zero Balance
+15656333,Jen,574,France,Female,33,3,134348.57,1,Yes,No,63163.99,Retained,Adult,Poor,High balance
+15697497,She,518,France,Female,45,9,105525.65,2,Yes,Yes,73418.29,Retained,Adult,Poor,High balance
+15585362,Simmons,749,France,Female,60,6,0,1,Yes,No,17978.68,Exited,Middle-Aged,Very Good,Zero Balance
+15571928,Fraser,679,France,Female,43,4,0,3,Yes,No,115136.51,Exited,Adult,Good,Zero Balance
+15785519,May,565,France,Male,36,6,106192.1,1,Yes,No,149575.59,Retained,Adult,Poor,High balance
+15743007,Seabrook,643,France,Female,45,4,45144.43,1,Yes,No,60917.24,Exited,Adult,Fair,Low Balance
+15777211,Herrera,515,France,Male,65,7,92113.61,1,Yes,Yes,142548.33,Retained,Senior,Poor,Medium Balance
+15721935,Kincaid,521,France,Male,25,7,0,2,Yes,Yes,157878.67,Retained,Young Adult,Poor,Zero Balance
+15591711,Sleeman,739,Spain,Male,38,0,128366.44,1,Yes,No,12796.43,Retained,Adult,Good,High balance
+15625021,Hung,585,France,Male,42,2,0,2,Yes,Yes,18657.77,Retained,Adult,Fair,Zero Balance
+15702968,Artemieva,733,Germany,Male,74,3,106545.53,1,Yes,Yes,134589.58,Retained,Senior,Good,High balance
+15600462,Barwell,542,France,Female,43,8,145618.37,1,No,Yes,10350.74,Retained,Adult,Poor,High balance
+15768104,Wright,788,Spain,Male,37,8,141541.25,1,No,No,66013.27,Retained,Adult,Very Good,High balance
+15780140,Bellucci,435,Germany,Male,32,2,57017.06,2,Yes,Yes,5907.11,Retained,Adult,Poor,Medium Balance
+15585255,Moore,577,France,Male,42,9,0,1,Yes,No,74077.91,Retained,Adult,Poor,Zero Balance
+15772781,Ball,703,France,Female,51,3,0,3,Yes,Yes,77294.56,Exited,Middle-Aged,Good,Zero Balance
+15669987,Sung,728,Germany,Female,35,8,125884.95,2,Yes,No,54359.02,Exited,Adult,Good,High balance
+15697000,Mello,728,Germany,Male,32,5,61825.5,1,Yes,Yes,156124.93,Retained,Adult,Good,Medium Balance
+15733119,Mistry,718,France,Male,35,8,0,2,Yes,No,94820.85,Retained,Adult,Good,Zero Balance
+15782390,T'ien,621,France,Female,40,6,0,1,Yes,No,155155.25,Retained,Adult,Fair,Zero Balance
+15654700,Fallaci,523,France,Female,40,2,102967.41,1,Yes,No,128702.1,Exited,Adult,Poor,High balance
+15632210,Hill,657,Germany,Male,25,2,171770.55,1,Yes,No,22745.5,Retained,Young Adult,Fair,High balance
+15642041,Burns,727,Germany,Male,40,1,93051.64,2,Yes,No,71865.31,Exited,Adult,Good,Medium Balance
+15709737,Hunter,643,France,Male,36,7,161064.64,2,No,Yes,84294.82,Retained,Adult,Fair,High balance
+15792388,Li,645,France,Female,48,7,90612.34,1,Yes,Yes,149139.13,Retained,Middle-Aged,Fair,Medium Balance
+15786014,Ku,568,France,Male,28,5,145105.64,2,Yes,No,185489.11,Retained,Young Adult,Poor,High balance
+15794580,Ch'en,599,France,Male,58,4,0,1,No,No,176407.15,Exited,Middle-Aged,Fair,Zero Balance
+15675964,Chukwukadibia,672,France,Female,45,9,0,1,Yes,Yes,92027.69,Exited,Adult,Good,Zero Balance
+15814275,Zikoranachidimma,685,France,Male,33,6,174912.72,1,Yes,Yes,43932.54,Retained,Adult,Good,High balance
+15724848,Oluchukwu,516,France,Female,46,1,104947.72,1,Yes,No,115789.25,Exited,Middle-Aged,Poor,High balance
+15754713,Rivera,685,Spain,Male,31,10,135213.71,1,Yes,Yes,125777.28,Retained,Adult,Good,High balance
+15693814,Niu,806,Spain,Male,25,7,0,2,Yes,No,18461.9,Retained,Young Adult,Excellent,Zero Balance
+15599660,Bennett,604,France,Male,36,6,116229.85,2,Yes,Yes,79633.38,Retained,Adult,Fair,High balance
+15746490,Wollstonecraft,648,Spain,Female,53,6,111201.41,1,Yes,Yes,121542.29,Retained,Middle-Aged,Fair,High balance
+15566091,Thomsen,545,Spain,Female,32,4,0,1,Yes,No,94739.2,Retained,Adult,Poor,Zero Balance
+15655961,Palermo,756,Germany,Male,27,1,131899,1,Yes,No,93302.29,Retained,Young Adult,Very Good,High balance
+15710404,Chinwendu,569,France,Male,35,10,124525.52,1,Yes,Yes,193793.78,Retained,Adult,Poor,High balance
+15775625,McKenzie,596,France,Male,47,6,0,1,Yes,No,74835.65,Retained,Middle-Aged,Fair,Zero Balance
+15792328,James,475,France,Male,39,6,0,1,Yes,Yes,56999.9,Exited,Adult,Poor,Zero Balance
+15719856,Lamb,646,France,Female,45,3,47134.75,1,Yes,Yes,57236.44,Retained,Adult,Fair,Low Balance
+15593773,Olejuru,784,Spain,Male,35,3,0,2,No,No,81483.64,Retained,Adult,Very Good,Zero Balance
+15733114,Hay,552,Spain,Male,45,9,0,2,Yes,No,26752.56,Retained,Adult,Poor,Zero Balance
+15797748,Lu,729,France,Male,44,5,0,2,No,Yes,9200.54,Retained,Adult,Good,Zero Balance
+15743411,Chiawuotu,609,Spain,Male,61,1,0,1,Yes,No,22447.85,Exited,Senior,Fair,Zero Balance
+15753337,Yeates,555,France,Male,51,5,0,3,Yes,No,189122.89,Exited,Middle-Aged,Poor,Zero Balance
+15601026,Gallagher,572,Germany,Female,19,1,138657.08,1,Yes,Yes,16161.82,Retained,Young Adult,Poor,High balance
+15658485,Heath,785,France,Female,34,9,70302.48,1,Yes,Yes,68600.36,Retained,Adult,Very Good,Medium Balance
+15636731,Ts'ai,714,Germany,Female,36,1,101609.01,2,Yes,Yes,447.73,Retained,Adult,Good,High balance
+15628303,Thurgood,738,Spain,Male,35,3,0,1,Yes,Yes,15650.73,Retained,Adult,Good,Zero Balance
+15633461,Pai,639,Germany,Male,38,5,130170.82,1,Yes,Yes,149599.62,Retained,Adult,Fair,High balance
+15677135,Lorenzo,520,Germany,Male,61,8,133802.29,2,Yes,Yes,90304.01,Retained,Senior,Poor,High balance
+15590876,Knupp,764,France,Female,24,7,106234.02,1,No,No,115676.38,Retained,Young Adult,Very Good,High balance
+15790782,Baryshnikov,661,Spain,Male,39,6,132628.98,1,No,No,38812.67,Retained,Adult,Fair,High balance
+15700476,Azubuike,564,Germany,Male,41,9,103522.75,2,Yes,Yes,34338.21,Retained,Adult,Poor,High balance
+15634141,Shephard,708,Germany,Female,42,8,192390.52,2,Yes,No,823.36,Retained,Adult,Good,High balance
+15737795,Scott,512,Spain,Male,36,1,0,1,No,Yes,135482.26,Exited,Adult,Poor,Zero Balance
+15790299,Williamson,592,Spain,Male,37,9,0,3,Yes,Yes,10656.89,Retained,Adult,Fair,Zero Balance
+15675316,Avdeeva,619,France,Female,38,3,0,2,No,Yes,116467.35,Retained,Adult,Fair,Zero Balance
+15613630,Tang,775,France,Male,52,8,109922.61,1,Yes,Yes,96823.32,Exited,Middle-Aged,Very Good,High balance
+15662100,Hsu,850,Germany,Female,44,5,128605.32,1,No,Yes,171096.2,Retained,Adult,Excellent,High balance
+15668032,Buchanan,577,France,Female,37,4,0,1,Yes,Yes,79881.39,Retained,Adult,Poor,Zero Balance
+15599289,Yeh,724,France,Female,37,10,68598.56,1,Yes,No,157862.82,Retained,Adult,Good,Medium Balance
+15754084,Palazzi,710,Spain,Male,35,1,106518.52,1,Yes,Yes,127951.81,Retained,Adult,Good,High balance
+15676521,Y?an,696,France,Female,31,8,0,2,No,No,191074.11,Retained,Adult,Good,Zero Balance
+15804586,Lin,376,France,Female,46,6,0,1,Yes,No,157333.69,Exited,Middle-Aged,Poor,Zero Balance
+15781465,Schofield,675,Germany,Female,29,8,121326.42,1,Yes,No,133457.52,Retained,Young Adult,Good,High balance
+15729362,Lombardi,745,France,Male,36,8,67226.37,1,Yes,No,130789.6,Retained,Adult,Very Good,Medium Balance
+15709295,Wall,697,Spain,Female,25,5,82931.85,2,Yes,Yes,128373.88,Retained,Young Adult,Good,Medium Balance
+15745324,Milani,599,Spain,Female,39,4,0,1,Yes,No,194273.2,Exited,Adult,Fair,Zero Balance
+15741336,Ejimofor,715,France,Female,38,5,118590.41,1,Yes,Yes,5684.17,Exited,Adult,Good,High balance
+15783659,Blackburn,659,France,Male,67,4,145981.87,1,Yes,Yes,131043.2,Retained,Senior,Fair,High balance
+15620981,Wickham,684,France,Female,48,3,73309.38,1,No,No,21228.34,Exited,Middle-Aged,Good,Medium Balance
+15630328,Bird,635,France,Female,48,8,130796.33,2,Yes,Yes,43250.3,Retained,Middle-Aged,Fair,High balance
+15785899,Ch'en,789,Germany,Male,33,8,151607.56,1,Yes,No,4389.4,Retained,Adult,Very Good,High balance
+15606149,Wood,571,Germany,Female,66,9,111577.01,1,No,Yes,189271.9,Retained,Senior,Poor,High balance
+15671139,Brizendine,694,Spain,Male,39,0,107042.74,1,Yes,Yes,102284.2,Retained,Adult,Good,High balance
+15660429,Ch'in,665,Spain,Female,42,2,156371.61,2,No,Yes,156774.94,Exited,Adult,Fair,High balance
+15571002,Yusupov,706,France,Female,44,4,129605.99,1,No,No,69865.49,Retained,Adult,Good,High balance
+15631681,Jibunoh,807,Spain,Female,43,0,0,2,No,Yes,85523.24,Retained,Adult,Excellent,Zero Balance
+15731522,Ts'ui,771,Spain,Female,67,8,0,2,Yes,Yes,51219.8,Retained,Senior,Very Good,Zero Balance
+15619529,Ndukaku,531,Spain,Male,27,8,132576.25,1,No,No,7222.92,Retained,Young Adult,Poor,High balance
+15628034,Wilder,629,France,Female,37,6,129101.3,1,Yes,Yes,23971.33,Retained,Adult,Fair,High balance
+15686164,Maclean,850,Germany,Female,31,1,108822.4,1,Yes,Yes,132173.31,Retained,Adult,Excellent,High balance
+15582797,Ch'iu,685,Spain,Male,35,4,137948.51,1,Yes,No,113639.64,Retained,Adult,Good,High balance
+15753831,Cox,642,Spain,Male,32,7,100433.8,1,Yes,Yes,39768.59,Retained,Adult,Fair,High balance
+15731815,Nepean,529,Spain,Male,63,4,96134.11,3,Yes,No,108732.96,Exited,Senior,Poor,Medium Balance
+15580956,McNess,683,Germany,Female,43,4,115888.04,1,Yes,Yes,117349.19,Exited,Adult,Good,High balance
+15602084,Coles,663,France,Female,42,5,124626.07,1,Yes,Yes,78004.5,Retained,Adult,Fair,High balance
+15589805,Benson,563,France,Female,34,6,139810.34,1,Yes,Yes,152417.79,Retained,Adult,Poor,High balance
+15720893,Gilbert,637,Spain,Female,34,9,0,2,No,No,26057.08,Retained,Adult,Fair,Zero Balance
+15641009,Wilhelm,544,France,Male,37,3,84496.71,1,No,No,79972.09,Retained,Adult,Poor,Medium Balance
+15605926,Sinclair,649,Germany,Male,70,9,116854.71,2,No,Yes,107125.79,Retained,Senior,Fair,High balance
+15805955,L?,638,France,Female,48,10,138333.03,1,Yes,Yes,47679.14,Retained,Middle-Aged,Fair,High balance
+15801488,Buckner,723,France,Male,25,3,0,2,Yes,Yes,134509.47,Retained,Young Adult,Good,Zero Balance
+15605918,Padovesi,635,Germany,Male,43,5,78992.75,2,No,No,153265.31,Retained,Adult,Fair,Medium Balance
+15779711,Gray,750,Spain,Female,38,7,97257.41,2,No,Yes,179883.04,Retained,Adult,Very Good,Medium Balance
+15705620,Lu,730,France,Male,34,5,122453.37,2,Yes,No,138882.98,Retained,Adult,Good,High balance
+15685357,Wright,750,Spain,Female,36,8,112940.07,1,No,Yes,9855.81,Retained,Adult,Very Good,High balance
+15570060,Palerma,586,France,Female,43,8,132558.26,1,Yes,No,67046.83,Exited,Adult,Fair,High balance
+15582616,Y?an,520,France,Female,38,4,0,2,Yes,No,56388.63,Retained,Adult,Poor,Zero Balance
+15799515,Wei,652,France,Female,48,8,133297.24,1,Yes,No,77764.37,Retained,Middle-Aged,Fair,High balance
+15642937,Padovesi,550,France,Female,46,7,0,2,Yes,No,130590.35,Retained,Middle-Aged,Poor,Zero Balance
+15624729,Tsao,594,France,Male,27,0,197041.8,1,No,No,151912.49,Retained,Young Adult,Fair,High balance
+15566156,Franklin,749,Germany,Female,44,0,71497.79,2,No,No,151083.8,Retained,Adult,Very Good,Medium Balance
+15792360,Clark,668,France,Male,32,7,0,2,Yes,Yes,777.37,Retained,Adult,Fair,Zero Balance
+15807008,McGregor,614,Germany,Female,35,6,128100.28,1,No,No,69454.24,Exited,Adult,Fair,High balance
+15704770,Pan,773,France,Male,25,1,124532.78,2,No,Yes,11723.57,Retained,Young Adult,Very Good,High balance
+15756475,Kenniff,551,Germany,Male,31,9,82293.82,2,Yes,Yes,91565.25,Retained,Adult,Poor,Medium Balance
+15655339,Spencer,566,France,Male,36,1,142120.91,1,Yes,No,79616.37,Retained,Adult,Poor,High balance
+15613749,Lees,569,Spain,Male,34,0,151839.26,1,Yes,No,102299.81,Exited,Adult,Poor,High balance
+15664521,David,659,Spain,Male,31,7,149620.88,2,Yes,Yes,104533.51,Retained,Adult,Fair,High balance
+15681206,Hsing,722,France,Female,49,3,168197.66,1,Yes,No,140765.57,Exited,Middle-Aged,Good,High balance
+15745527,Burke,655,France,Male,37,5,93147,2,Yes,No,66214.13,Retained,Adult,Fair,Medium Balance
+15806926,Watson,615,France,Female,35,2,97440.02,2,Yes,Yes,139816.1,Retained,Adult,Fair,Medium Balance
+15724563,Hawkins,752,Germany,Female,42,3,65046.08,2,No,Yes,140139.28,Retained,Adult,Very Good,Medium Balance
+15782899,Ginn,661,Spain,Female,28,7,95357.49,1,No,No,102297.15,Retained,Young Adult,Fair,Medium Balance
+15623521,Sozonov,838,Spain,Male,43,9,123105.88,2,Yes,No,145765.83,Retained,Adult,Excellent,High balance
+15810218,Sun,610,Spain,Male,29,9,0,3,No,Yes,83912.24,Retained,Young Adult,Fair,Zero Balance
+15645621,Hunter,811,Spain,Male,44,3,0,2,No,Yes,78439.73,Retained,Adult,Excellent,Zero Balance
+15608114,Manfrin,587,Spain,Male,62,7,121286.27,1,No,Yes,6776.92,Retained,Senior,Fair,High balance
+15659557,Artamonova,811,Germany,Female,28,4,167738.82,2,Yes,Yes,9903.42,Retained,Young Adult,Excellent,High balance
+15787772,Hansen,759,France,Female,38,1,104091.29,1,No,No,91561.91,Retained,Adult,Very Good,High balance
