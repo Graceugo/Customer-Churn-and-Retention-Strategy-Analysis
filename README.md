@@ -130,11 +130,11 @@ Based on the findings, the following strategies may be considered:
     Use Power BI dashboards and regular reporting to track changes in churn rates and evaluate whether retention efforts are producing improvements.
 
 ## Dashboard Preview
-Page 1 — Customer Churn Overview
-Page 2 — Churn Factors and Retention Characteristics
-Page 3 — Higher-Churn Customer Profile
+- Page 1 — Customer Churn Overview
+- Page 2 — Churn Factors and Retention Characteristics
+- Page 3 — Higher-Churn Customer Profile
 ### dashboard images
-![customer churn retention analysis photo](images/customer retention analysis photo.jpeg)
+![customer churn retention analysis photo](images/customer churn retention analysis photo.jpeg)
 
 ## Project Files
 The repository contains the following files:
