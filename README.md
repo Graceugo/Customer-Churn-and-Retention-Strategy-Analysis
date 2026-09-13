@@ -133,6 +133,8 @@ Based on the findings, the following strategies may be considered:
 Page 1 — Customer Churn Overview
 Page 2 — Churn Factors and Retention Characteristics
 Page 3 — Higher-Churn Customer Profile
+### dashboard images
+![customer churn retention analysis photo](images/customer retention analysis photo.jpeg)
 
 ## Project Files
 The repository contains the following files:
@@ -160,8 +162,9 @@ Future work may include:
 ## Conclusion
 This project provided an opportunity to examine customer churn from the data-cleaning stage through SQL analysis and Power BI dashboard development.
 It also highlighted the importance of distinguishing between descriptive findings, associations and causal explanations when interpreting data.
+The analysis shows that customer churn is not explained by one variable alone. Different demographic, financial, product and engagement characteristics may occur together and should be considered when developing retention strategies.
 
 ## Author
 **Grace Olunumelu**
 
-The analysis shows that customer churn is not explained by one variable alone. Different demographic, financial, product and engagement characteristics may occur together and should be considered when developing retention strategies.
+
