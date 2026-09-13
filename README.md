@@ -134,7 +134,7 @@ Based on the findings, the following strategies may be considered:
 - Page 2 — Churn Factors and Retention Characteristics
 - Page 3 — Higher-Churn Customer Profile
 ### dashboard images
-![customer churn retention analysis photo](images/customer churn retention analysis photo.jpeg)
+![customer churn retention analysis photo](images/customer-churn-retention-analysis-photo.jpeg)
 
 ## Project Files
 The repository contains the following files:
